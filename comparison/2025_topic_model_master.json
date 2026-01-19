@@ -1,0 +1,4132 @@
+{
+    "2025": {
+        "LDA": {
+            "LDA_Sentiment_Summary": {
+                "Daily life, food & home activities": {
+                    "Negative": 1405,
+                    "Neutral": 3734,
+                    "Positive": 772
+                },
+                "General life & work satisfaction": {
+                    "Negative": 3750,
+                    "Neutral": 5781,
+                    "Positive": 3298
+                },
+                "Government, rules & legal requirements": {
+                    "Negative": 82,
+                    "Neutral": 550,
+                    "Positive": 32
+                },
+                "Health issues & asking for help": {
+                    "Negative": 1066,
+                    "Neutral": 4845,
+                    "Positive": 1162
+                },
+                "Jobs, roles & career decisions": {
+                    "Negative": 3494,
+                    "Neutral": 10076,
+                    "Positive": 3539
+                },
+                "Office work, managers & working hours": {
+                    "Negative": 1745,
+                    "Neutral": 4082,
+                    "Positive": 1364
+                },
+                "Reddit advice, jokes & rule-based questions": {
+                    "Negative": 13,
+                    "Neutral": 1986,
+                    "Positive": 8
+                },
+                "Reddit moderation & job megathreads": {
+                    "Negative": 2,
+                    "Neutral": 111,
+                    "Positive": 2686
+                },
+                "Salary, pay & cost of living": {
+                    "Negative": 1340,
+                    "Neutral": 4681,
+                    "Positive": 596
+                },
+                "Transport, driving & daily payments": {
+                    "Negative": 869,
+                    "Neutral": 3142,
+                    "Positive": 473
+                }
+            }
+        },
+        "Bertopic": {
+            "Bertopic": {
+                "topic_-1": {
+                    "topic_id": -1,
+                    "topic_label": "Job quitting & long-term work decisions",
+                    "top_words": [
+                        "job",
+                        "work",
+                        "just",
+                        "like",
+                        "don",
+                        "people",
+                        "ve",
+                        "time",
+                        "want",
+                        "years"
+                    ],
+                    "document_count": 24301,
+                    "coherence_score": 0.3306395221348213,
+                    "sentiment_distribution": {
+                        "Neutral": 14567,
+                        "Negative": 5545,
+                        "Positive": 4189
+                    }
+                },
+                "topic_0": {
+                    "topic_id": 0,
+                    "topic_label": "Sleep, nights & daily routines",
+                    "top_words": [
+                        "tomorrow",
+                        "today",
+                        "bed",
+                        "sleep",
+                        "tonight",
+                        "day",
+                        "night",
+                        "morning",
+                        "watching",
+                        "got"
+                    ],
+                    "document_count": 1243,
+                    "coherence_score": 0.5307360721615069,
+                    "sentiment_distribution": {
+                        "Neutral": 523,
+                        "Negative": 390,
+                        "Positive": 330
+                    }
+                },
+                "topic_1": {
+                    "topic_id": 1,
+                    "topic_label": "Mental health, sickness & workplace stress",
+                    "top_words": [
+                        "sick",
+                        "health",
+                        "stress",
+                        "note",
+                        "sick leave",
+                        "mental",
+                        "mental health",
+                        "sickness",
+                        "gp",
+                        "signed"
+                    ],
+                    "document_count": 1032,
+                    "coherence_score": 0.6486982522474161,
+                    "sentiment_distribution": {
+                        "Neutral": 527,
+                        "Positive": 329,
+                        "Negative": 176
+                    }
+                },
+                "topic_2": {
+                    "topic_id": 2,
+                    "topic_label": "Congratulations, support & positive reactions",
+                    "top_words": [
+                        "congratulations",
+                        "congrats",
+                        "hope",
+                        "thank",
+                        "op",
+                        "luck",
+                        "best",
+                        "good",
+                        "post",
+                        "sharing"
+                    ],
+                    "document_count": 702,
+                    "coherence_score": 0.33054874195073647,
+                    "sentiment_distribution": {
+                        "Positive": 402,
+                        "Negative": 165,
+                        "Neutral": 135
+                    }
+                },
+                "topic_3": {
+                    "topic_id": 3,
+                    "topic_label": "Minimum wage & salary debates",
+                    "top_words": [
+                        "wage",
+                        "minimum wage",
+                        "minimum",
+                        "wages",
+                        "salaries",
+                        "salary",
+                        "pay",
+                        "underpaid",
+                        "30k",
+                        "living"
+                    ],
+                    "document_count": 659,
+                    "coherence_score": 0.647394558179968,
+                    "sentiment_distribution": {
+                        "Neutral": 419,
+                        "Negative": 166,
+                        "Positive": 74
+                    }
+                },
+                "topic_4": {
+                    "topic_id": 4,
+                    "topic_label": "Mortgages, debt & personal finance",
+                    "top_words": [
+                        "mortgage",
+                        "debt",
+                        "savings",
+                        "money",
+                        "house",
+                        "income",
+                        "month",
+                        "buy",
+                        "live",
+                        "rent"
+                    ],
+                    "document_count": 643,
+                    "coherence_score": 0.6679644166041699,
+                    "sentiment_distribution": {
+                        "Neutral": 444,
+                        "Negative": 110,
+                        "Positive": 89
+                    }
+                },
+                "topic_5": {
+                    "topic_id": 5,
+                    "topic_label": "UK cities & relocation",
+                    "top_words": [
+                        "manchester",
+                        "city",
+                        "london",
+                        "north",
+                        "liverpool",
+                        "beautiful",
+                        "areas",
+                        "towns",
+                        "cities",
+                        "kent"
+                    ],
+                    "document_count": 604,
+                    "coherence_score": 0.3382743701431405,
+                    "sentiment_distribution": {
+                        "Neutral": 376,
+                        "Negative": 144,
+                        "Positive": 84
+                    }
+                },
+                "topic_6": {
+                    "topic_id": 6,
+                    "topic_label": "Food, sandwiches & daily eating",
+                    "top_words": [
+                        "cheese",
+                        "jam",
+                        "toast",
+                        "sandwich",
+                        "sugar",
+                        "milk",
+                        "protein",
+                        "food",
+                        "chips",
+                        "meals"
+                    ],
+                    "document_count": 580,
+                    "coherence_score": 0.27694594068272294,
+                    "sentiment_distribution": {
+                        "Neutral": 393,
+                        "Negative": 131,
+                        "Positive": 56
+                    }
+                },
+                "topic_7": {
+                    "topic_id": 7,
+                    "topic_label": "Apprenticeships & engineering careers",
+                    "top_words": [
+                        "apprenticeship",
+                        "engineering",
+                        "apprenticeships",
+                        "electrical",
+                        "engineer",
+                        "degree",
+                        "mechanical",
+                        "engineers",
+                        "apprentice",
+                        "trade"
+                    ],
+                    "document_count": 567,
+                    "coherence_score": 0.6690490098143561,
+                    "sentiment_distribution": {
+                        "Neutral": 401,
+                        "Negative": 94,
+                        "Positive": 72
+                    }
+                },
+                "topic_8": {
+                    "topic_id": 8,
+                    "topic_label": "Neighbour noise & council complaints",
+                    "top_words": [
+                        "noise",
+                        "neighbour",
+                        "neighbours",
+                        "loud",
+                        "council",
+                        "garden",
+                        "hear",
+                        "house",
+                        "police",
+                        "door"
+                    ],
+                    "document_count": 565,
+                    "coherence_score": 0.7752536884593116,
+                    "sentiment_distribution": {
+                        "Neutral": 321,
+                        "Negative": 136,
+                        "Positive": 108
+                    }
+                },
+                "topic_9": {
+                    "topic_id": 9,
+                    "topic_label": "Topic 9",
+                    "top_words": [
+                        "rise",
+                        "pay rise",
+                        "pay",
+                        "salary",
+                        "raise",
+                        "promotion",
+                        "increase",
+                        "role",
+                        "company",
+                        "ask"
+                    ],
+                    "document_count": 528,
+                    "coherence_score": 0.5823567113253323,
+                    "sentiment_distribution": {
+                        "Neutral": 357,
+                        "Negative": 88,
+                        "Positive": 83
+                    }
+                },
+                "topic_10": {
+                    "topic_id": 10,
+                    "topic_label": "Topic 10",
+                    "top_words": [
+                        "redundancy",
+                        "redundant",
+                        "redundancy pay",
+                        "package",
+                        "role",
+                        "company",
+                        "voluntary",
+                        "pay",
+                        "statutory",
+                        "new"
+                    ],
+                    "document_count": 492,
+                    "coherence_score": 0.6545046050485415,
+                    "sentiment_distribution": {
+                        "Neutral": 270,
+                        "Positive": 132,
+                        "Negative": 90
+                    }
+                },
+                "topic_11": {
+                    "topic_id": 11,
+                    "topic_label": "Topic 11",
+                    "top_words": [
+                        "cv",
+                        "applications",
+                        "interviews",
+                        "interview",
+                        "applying",
+                        "application",
+                        "cvs",
+                        "apply",
+                        "jobs",
+                        "applied"
+                    ],
+                    "document_count": 450,
+                    "coherence_score": 0.6068604754552432,
+                    "sentiment_distribution": {
+                        "Neutral": 271,
+                        "Negative": 112,
+                        "Positive": 67
+                    }
+                },
+                "topic_12": {
+                    "topic_id": 12,
+                    "topic_label": "Topic 12",
+                    "top_words": [
+                        "yes",
+                        "regret",
+                        "fine",
+                        "don",
+                        "ll",
+                        "say",
+                        "ll fine",
+                        "worry",
+                        "nope",
+                        "answer"
+                    ],
+                    "document_count": 424,
+                    "coherence_score": 0.26045997602820714,
+                    "sentiment_distribution": {
+                        "Neutral": 310,
+                        "Negative": 59,
+                        "Positive": 55
+                    }
+                },
+                "topic_13": {
+                    "topic_id": 13,
+                    "topic_label": "Topic 13",
+                    "top_words": [
+                        "career",
+                        "data",
+                        "roles",
+                        "skills",
+                        "marketing",
+                        "analyst",
+                        "degree",
+                        "experience",
+                        "project",
+                        "analytics"
+                    ],
+                    "document_count": 390,
+                    "coherence_score": 0.6450950284428413,
+                    "sentiment_distribution": {
+                        "Neutral": 198,
+                        "Positive": 110,
+                        "Negative": 82
+                    }
+                },
+                "topic_14": {
+                    "topic_id": 14,
+                    "topic_label": "Topic 14",
+                    "top_words": [
+                        "gp",
+                        "pain",
+                        "surgery",
+                        "nhs",
+                        "ambulance",
+                        "hospital",
+                        "private",
+                        "999",
+                        "appointment",
+                        "referral"
+                    ],
+                    "document_count": 378,
+                    "coherence_score": 0.4432396303360272,
+                    "sentiment_distribution": {
+                        "Neutral": 231,
+                        "Positive": 85,
+                        "Negative": 62
+                    }
+                },
+                "topic_15": {
+                    "topic_id": 15,
+                    "topic_label": "Topic 15",
+                    "top_words": [
+                        "life",
+                        "work",
+                        "enjoy",
+                        "job",
+                        "passion",
+                        "working",
+                        "career",
+                        "money",
+                        "doing",
+                        "feel"
+                    ],
+                    "document_count": 377,
+                    "coherence_score": 0.4909281106229728,
+                    "sentiment_distribution": {
+                        "Negative": 153,
+                        "Neutral": 127,
+                        "Positive": 97
+                    }
+                },
+                "topic_16": {
+                    "topic_id": 16,
+                    "topic_label": "Topic 16",
+                    "top_words": [
+                        "disabled",
+                        "benefits",
+                        "cuts",
+                        "disabled people",
+                        "pip",
+                        "disability",
+                        "people",
+                        "labour",
+                        "benefit",
+                        "government"
+                    ],
+                    "document_count": 373,
+                    "coherence_score": 0.5843117223873274,
+                    "sentiment_distribution": {
+                        "Neutral": 235,
+                        "Negative": 91,
+                        "Positive": 47
+                    }
+                },
+                "topic_17": {
+                    "topic_id": 17,
+                    "topic_label": "Topic 17",
+                    "top_words": [
+                        "ai",
+                        "use",
+                        "data",
+                        "chatgpt",
+                        "use ai",
+                        "people",
+                        "tools",
+                        "jobs",
+                        "using",
+                        "replace"
+                    ],
+                    "document_count": 369,
+                    "coherence_score": 0.367668989989945,
+                    "sentiment_distribution": {
+                        "Neutral": 240,
+                        "Negative": 81,
+                        "Positive": 48
+                    }
+                },
+                "topic_18": {
+                    "topic_id": 18,
+                    "topic_label": "Topic 18",
+                    "top_words": [
+                        "mum",
+                        "dad",
+                        "went",
+                        "said",
+                        "got",
+                        "thought",
+                        "old",
+                        "guy",
+                        "woman",
+                        "bus"
+                    ],
+                    "document_count": 349,
+                    "coherence_score": 0.46344839030774054,
+                    "sentiment_distribution": {
+                        "Negative": 136,
+                        "Neutral": 128,
+                        "Positive": 85
+                    }
+                },
+                "topic_19": {
+                    "topic_id": 19,
+                    "topic_label": "Topic 19",
+                    "top_words": [
+                        "adhd",
+                        "autism",
+                        "autistic",
+                        "diagnosed",
+                        "disability",
+                        "diagnosis",
+                        "neurodivergent",
+                        "adjustments",
+                        "people",
+                        "disabilities"
+                    ],
+                    "document_count": 347,
+                    "coherence_score": 0.7048312899760929,
+                    "sentiment_distribution": {
+                        "Neutral": 190,
+                        "Negative": 82,
+                        "Positive": 75
+                    }
+                },
+                "topic_20": {
+                    "topic_id": 20,
+                    "topic_label": "Topic 20",
+                    "top_words": [
+                        "remote",
+                        "jobs",
+                        "work",
+                        "hours",
+                        "flexible",
+                        "driving",
+                        "looking",
+                        "home",
+                        "job",
+                        "work home"
+                    ],
+                    "document_count": 347,
+                    "coherence_score": 0.5081424384143894,
+                    "sentiment_distribution": {
+                        "Neutral": 230,
+                        "Positive": 62,
+                        "Negative": 55
+                    }
+                },
+                "topic_21": {
+                    "topic_id": 21,
+                    "topic_label": "Topic 21",
+                    "top_words": [
+                        "childcare",
+                        "nursery",
+                        "school",
+                        "kids",
+                        "child",
+                        "hours",
+                        "children",
+                        "days",
+                        "kid",
+                        "parent"
+                    ],
+                    "document_count": 334,
+                    "coherence_score": 0.698000191649322,
+                    "sentiment_distribution": {
+                        "Neutral": 222,
+                        "Positive": 68,
+                        "Negative": 44
+                    }
+                },
+                "topic_22": {
+                    "topic_id": 22,
+                    "topic_label": "Topic 22",
+                    "top_words": [
+                        "shift",
+                        "shifts",
+                        "hours",
+                        "night",
+                        "shift work",
+                        "days",
+                        "hour",
+                        "work",
+                        "week",
+                        "night shifts"
+                    ],
+                    "document_count": 329,
+                    "coherence_score": 0.682490177333122,
+                    "sentiment_distribution": {
+                        "Neutral": 195,
+                        "Negative": 82,
+                        "Positive": 52
+                    }
+                },
+                "topic_23": {
+                    "topic_id": 23,
+                    "topic_label": "Topic 23",
+                    "top_words": [
+                        "quit",
+                        "job",
+                        "new",
+                        "new job",
+                        "mental",
+                        "mental health",
+                        "health",
+                        "months",
+                        "feel",
+                        "toxic"
+                    ],
+                    "document_count": 326,
+                    "coherence_score": 0.5506624826983171,
+                    "sentiment_distribution": {
+                        "Neutral": 135,
+                        "Positive": 115,
+                        "Negative": 76
+                    }
+                },
+                "topic_24": {
+                    "topic_id": 24,
+                    "topic_label": "Topic 24",
+                    "top_words": [
+                        "reform",
+                        "labour",
+                        "party",
+                        "tories",
+                        "vote",
+                        "tory",
+                        "election",
+                        "parties",
+                        "elected",
+                        "wing"
+                    ],
+                    "document_count": 325,
+                    "coherence_score": 0.5838332648941653,
+                    "sentiment_distribution": {
+                        "Neutral": 193,
+                        "Negative": 96,
+                        "Positive": 36
+                    }
+                },
+                "topic_25": {
+                    "topic_id": 25,
+                    "topic_label": "Topic 25",
+                    "top_words": [
+                        "interview",
+                        "interviews",
+                        "questions",
+                        "feedback",
+                        "interviewer",
+                        "asked",
+                        "interviewing",
+                        "candidate",
+                        "interviewers",
+                        "stage"
+                    ],
+                    "document_count": 323,
+                    "coherence_score": 0.6670743925588508,
+                    "sentiment_distribution": {
+                        "Neutral": 143,
+                        "Negative": 109,
+                        "Positive": 71
+                    }
+                },
+                "topic_26": {
+                    "topic_id": 26,
+                    "topic_label": "Topic 26",
+                    "top_words": [
+                        "colleague",
+                        "manager",
+                        "hr",
+                        "bullying",
+                        "team",
+                        "person",
+                        "said",
+                        "boss",
+                        "complaint",
+                        "work"
+                    ],
+                    "document_count": 311,
+                    "coherence_score": 0.5224807652642381,
+                    "sentiment_distribution": {
+                        "Neutral": 158,
+                        "Negative": 100,
+                        "Positive": 53
+                    }
+                },
+                "topic_27": {
+                    "topic_id": 27,
+                    "topic_label": "Topic 27",
+                    "top_words": [
+                        "hours",
+                        "contract",
+                        "shifts",
+                        "zero",
+                        "zero hour",
+                        "hour",
+                        "hour contract",
+                        "overtime",
+                        "shift",
+                        "zero hours"
+                    ],
+                    "document_count": 307,
+                    "coherence_score": 0.6754118335602594,
+                    "sentiment_distribution": {
+                        "Neutral": 218,
+                        "Negative": 45,
+                        "Positive": 44
+                    }
+                },
+                "topic_28": {
+                    "topic_id": 28,
+                    "topic_label": "Topic 28",
+                    "top_words": [
+                        "friends",
+                        "meet",
+                        "groups",
+                        "hobby",
+                        "group",
+                        "social",
+                        "clubs",
+                        "club",
+                        "people",
+                        "hobbies"
+                    ],
+                    "document_count": 306,
+                    "coherence_score": 0.6435469908892301,
+                    "sentiment_distribution": {
+                        "Neutral": 177,
+                        "Negative": 66,
+                        "Positive": 63
+                    }
+                },
+                "topic_29": {
+                    "topic_id": 29,
+                    "topic_label": "Topic 29",
+                    "top_words": [
+                        "rejection",
+                        "interview",
+                        "rejected",
+                        "application",
+                        "email",
+                        "hiring",
+                        "feedback",
+                        "candidate",
+                        "hiring manager",
+                        "applied"
+                    ],
+                    "document_count": 305,
+                    "coherence_score": 0.7426364624123445,
+                    "sentiment_distribution": {
+                        "Neutral": 164,
+                        "Negative": 79,
+                        "Positive": 62
+                    }
+                },
+                "topic_30": {
+                    "topic_id": 30,
+                    "topic_label": "Topic 30",
+                    "top_words": [
+                        "applying",
+                        "cv",
+                        "job",
+                        "jobs",
+                        "interviews",
+                        "experience",
+                        "unemployed",
+                        "applications",
+                        "applied",
+                        "getting"
+                    ],
+                    "document_count": 303,
+                    "coherence_score": 0.6534474635308826,
+                    "sentiment_distribution": {
+                        "Neutral": 113,
+                        "Positive": 100,
+                        "Negative": 90
+                    }
+                },
+                "topic_31": {
+                    "topic_id": 31,
+                    "topic_label": "Topic 31",
+                    "top_words": [
+                        "tell",
+                        "leave",
+                        "say",
+                        "don",
+                        "just",
+                        "life",
+                        "bridges",
+                        "problem",
+                        "did right",
+                        "just say"
+                    ],
+                    "document_count": 301,
+                    "coherence_score": 0.3507682793835786,
+                    "sentiment_distribution": {
+                        "Neutral": 216,
+                        "Negative": 48,
+                        "Positive": 37
+                    }
+                },
+                "topic_32": {
+                    "topic_id": 32,
+                    "topic_label": "Topic 32",
+                    "top_words": [
+                        "pub",
+                        "bar",
+                        "drink",
+                        "pubs",
+                        "pint",
+                        "drinks",
+                        "table",
+                        "wine",
+                        "rounds",
+                        "trial"
+                    ],
+                    "document_count": 291,
+                    "coherence_score": 0.4639431397065712,
+                    "sentiment_distribution": {
+                        "Neutral": 177,
+                        "Negative": 65,
+                        "Positive": 49
+                    }
+                },
+                "topic_33": {
+                    "topic_id": 33,
+                    "topic_label": "Topic 33",
+                    "top_words": [
+                        "reckon",
+                        "guy",
+                        "wikipedia",
+                        "david",
+                        "wikipedia org",
+                        "pal",
+                        "en wikipedia",
+                        "org wiki",
+                        "https en",
+                        "alan"
+                    ],
+                    "document_count": 288,
+                    "coherence_score": 0.11059379132720304,
+                    "sentiment_distribution": {
+                        "Neutral": 178,
+                        "Negative": 73,
+                        "Positive": 37
+                    }
+                },
+                "topic_34": {
+                    "topic_id": 34,
+                    "topic_label": "Topic 34",
+                    "top_words": [
+                        "homeless",
+                        "housing",
+                        "council",
+                        "shelter",
+                        "help",
+                        "local",
+                        "accommodation",
+                        "contact",
+                        "sleeping",
+                        "homelessness"
+                    ],
+                    "document_count": 287,
+                    "coherence_score": 0.6576709039975118,
+                    "sentiment_distribution": {
+                        "Neutral": 198,
+                        "Positive": 65,
+                        "Negative": 24
+                    }
+                },
+                "topic_35": {
+                    "topic_id": 35,
+                    "topic_label": "Topic 35",
+                    "top_words": [
+                        "dentist",
+                        "nhs",
+                        "teeth",
+                        "dental",
+                        "treatment",
+                        "root",
+                        "private",
+                        "emergency",
+                        "appointment",
+                        "tattoos"
+                    ],
+                    "document_count": 285,
+                    "coherence_score": 0.6861817397214096,
+                    "sentiment_distribution": {
+                        "Neutral": 186,
+                        "Negative": 64,
+                        "Positive": 35
+                    }
+                },
+                "topic_36": {
+                    "topic_id": 36,
+                    "topic_label": "Topic 36",
+                    "top_words": [
+                        "jeans",
+                        "clothes",
+                        "quality",
+                        "ebay",
+                        "shoes",
+                        "boots",
+                        "sell",
+                        "vinted",
+                        "clothing",
+                        "buy"
+                    ],
+                    "document_count": 278,
+                    "coherence_score": 0.3471409444738863,
+                    "sentiment_distribution": {
+                        "Neutral": 194,
+                        "Negative": 52,
+                        "Positive": 32
+                    }
+                },
+                "topic_37": {
+                    "topic_id": 37,
+                    "topic_label": "Topic 37",
+                    "top_words": [
+                        "current",
+                        "role",
+                        "offer",
+                        "company",
+                        "new",
+                        "salary",
+                        "job",
+                        "offered",
+                        "pension",
+                        "current role"
+                    ],
+                    "document_count": 276,
+                    "coherence_score": 0.6131997646637517,
+                    "sentiment_distribution": {
+                        "Neutral": 122,
+                        "Positive": 98,
+                        "Negative": 56
+                    }
+                },
+                "topic_38": {
+                    "topic_id": 38,
+                    "topic_label": "Topic 38",
+                    "top_words": [
+                        "https youtu",
+                        "youtu",
+                        "youtube com",
+                        "https",
+                        "youtube",
+                        "games",
+                        "www youtube",
+                        "com",
+                        "game",
+                        "watch"
+                    ],
+                    "document_count": 275,
+                    "coherence_score": 0.3219740930010181,
+                    "sentiment_distribution": {
+                        "Neutral": 134,
+                        "Negative": 93,
+                        "Positive": 48
+                    }
+                },
+                "topic_39": {
+                    "topic_id": 39,
+                    "topic_label": "Topic 39",
+                    "top_words": [
+                        "remote",
+                        "office",
+                        "hybrid",
+                        "fully remote",
+                        "wfh",
+                        "fully",
+                        "home",
+                        "travel",
+                        "days",
+                        "contract"
+                    ],
+                    "document_count": 268,
+                    "coherence_score": 0.6424942849672788,
+                    "sentiment_distribution": {
+                        "Neutral": 173,
+                        "Negative": 58,
+                        "Positive": 37
+                    }
+                },
+                "topic_40": {
+                    "topic_id": 40,
+                    "topic_label": "Topic 40",
+                    "top_words": [
+                        "cat",
+                        "birds",
+                        "cats",
+                        "bird",
+                        "pet",
+                        "owner",
+                        "food",
+                        "wildlife",
+                        "room",
+                        "house"
+                    ],
+                    "document_count": 264,
+                    "coherence_score": 0.582857550132224,
+                    "sentiment_distribution": {
+                        "Neutral": 149,
+                        "Positive": 66,
+                        "Negative": 49
+                    }
+                },
+                "topic_41": {
+                    "topic_id": 41,
+                    "topic_label": "Topic 41",
+                    "top_words": [
+                        "gas",
+                        "energy",
+                        "usage",
+                        "heating",
+                        "electricity",
+                        "water",
+                        "hot water",
+                        "smart",
+                        "electric",
+                        "boiler"
+                    ],
+                    "document_count": 263,
+                    "coherence_score": 0.7702423566746036,
+                    "sentiment_distribution": {
+                        "Neutral": 203,
+                        "Positive": 32,
+                        "Negative": 28
+                    }
+                },
+                "topic_42": {
+                    "topic_id": 42,
+                    "topic_label": "Topic 42",
+                    "top_words": [
+                        "uber",
+                        "taxi",
+                        "lane",
+                        "drivers",
+                        "cars",
+                        "road",
+                        "roads",
+                        "car",
+                        "lights",
+                        "driving"
+                    ],
+                    "document_count": 263,
+                    "coherence_score": 0.6102703138127442,
+                    "sentiment_distribution": {
+                        "Neutral": 160,
+                        "Negative": 72,
+                        "Positive": 31
+                    }
+                },
+                "topic_43": {
+                    "topic_id": 43,
+                    "topic_label": "Topic 43",
+                    "top_words": [
+                        "social media",
+                        "media",
+                        "social",
+                        "generation",
+                        "technology",
+                        "generations",
+                        "people",
+                        "internet",
+                        "society",
+                        "apps"
+                    ],
+                    "document_count": 262,
+                    "coherence_score": 0.43885736874759046,
+                    "sentiment_distribution": {
+                        "Neutral": 141,
+                        "Negative": 78,
+                        "Positive": 43
+                    }
+                },
+                "topic_44": {
+                    "topic_id": 44,
+                    "topic_label": "Topic 44",
+                    "top_words": [
+                        "delivery",
+                        "address",
+                        "mail",
+                        "delivered",
+                        "parcel",
+                        "royal mail",
+                        "parcels",
+                        "letters",
+                        "packaging",
+                        "royal"
+                    ],
+                    "document_count": 258,
+                    "coherence_score": 0.3677313677848823,
+                    "sentiment_distribution": {
+                        "Neutral": 176,
+                        "Negative": 53,
+                        "Positive": 29
+                    }
+                },
+                "topic_45": {
+                    "topic_id": 45,
+                    "topic_label": "Topic 45",
+                    "top_words": [
+                        "court",
+                        "email",
+                        "claims",
+                        "pay",
+                        "bank",
+                        "900",
+                        "complaint",
+                        "small",
+                        "refund",
+                        "sent"
+                    ],
+                    "document_count": 246,
+                    "coherence_score": 0.3864677561716053,
+                    "sentiment_distribution": {
+                        "Neutral": 189,
+                        "Negative": 35,
+                        "Positive": 22
+                    }
+                },
+                "topic_46": {
+                    "topic_id": 46,
+                    "topic_label": "Topic 46",
+                    "top_words": [
+                        "dismissal",
+                        "disciplinary",
+                        "grievance",
+                        "acas",
+                        "constructive dismissal",
+                        "misconduct",
+                        "constructive",
+                        "manager",
+                        "gross misconduct",
+                        "gross"
+                    ],
+                    "document_count": 243,
+                    "coherence_score": 0.5412415306340352,
+                    "sentiment_distribution": {
+                        "Neutral": 157,
+                        "Positive": 47,
+                        "Negative": 39
+                    }
+                },
+                "topic_47": {
+                    "topic_id": 47,
+                    "topic_label": "Topic 47",
+                    "top_words": [
+                        "bbc",
+                        "trump",
+                        "news",
+                        "media",
+                        "victims",
+                        "uk news",
+                        "scandal",
+                        "evidence",
+                        "wing",
+                        "case"
+                    ],
+                    "document_count": 243,
+                    "coherence_score": 0.23911340070148945,
+                    "sentiment_distribution": {
+                        "Neutral": 135,
+                        "Negative": 76,
+                        "Positive": 32
+                    }
+                },
+                "topic_48": {
+                    "topic_id": 48,
+                    "topic_label": "Topic 48",
+                    "top_words": [
+                        "reference",
+                        "references",
+                        "employer",
+                        "background check",
+                        "check",
+                        "credit",
+                        "hr",
+                        "background",
+                        "dates",
+                        "worked"
+                    ],
+                    "document_count": 239,
+                    "coherence_score": 0.4465599765413592,
+                    "sentiment_distribution": {
+                        "Neutral": 161,
+                        "Positive": 45,
+                        "Negative": 33
+                    }
+                },
+                "topic_49": {
+                    "topic_id": 49,
+                    "topic_label": "Topic 49",
+                    "top_words": [
+                        "warehouse",
+                        "warehouses",
+                        "best job",
+                        "worked",
+                        "job",
+                        "warehouse work",
+                        "boxes",
+                        "stacking",
+                        "worst job",
+                        "worst"
+                    ],
+                    "document_count": 236,
+                    "coherence_score": 0.297215301581347,
+                    "sentiment_distribution": {
+                        "Neutral": 120,
+                        "Negative": 71,
+                        "Positive": 45
+                    }
+                },
+                "topic_50": {
+                    "topic_id": 50,
+                    "topic_label": "Topic 50",
+                    "top_words": [
+                        "teaching",
+                        "teacher",
+                        "teachers",
+                        "school",
+                        "schools",
+                        "classroom",
+                        "teach",
+                        "kids",
+                        "secondary",
+                        "children"
+                    ],
+                    "document_count": 233,
+                    "coherence_score": 0.8421756869589407,
+                    "sentiment_distribution": {
+                        "Neutral": 103,
+                        "Positive": 72,
+                        "Negative": 58
+                    }
+                },
+                "topic_51": {
+                    "topic_id": 51,
+                    "topic_label": "Topic 51",
+                    "top_words": [
+                        "travelling",
+                        "travel",
+                        "moving",
+                        "life",
+                        "regret",
+                        "abroad",
+                        "moved",
+                        "relocate",
+                        "address",
+                        "country"
+                    ],
+                    "document_count": 232,
+                    "coherence_score": 0.4762935318239415,
+                    "sentiment_distribution": {
+                        "Neutral": 125,
+                        "Negative": 54,
+                        "Positive": 53
+                    }
+                },
+                "topic_52": {
+                    "topic_id": 52,
+                    "topic_label": "Topic 52",
+                    "top_words": [
+                        "gift",
+                        "flowers",
+                        "card",
+                        "nice",
+                        "gifts",
+                        "biscuits",
+                        "calendar",
+                        "vouchers",
+                        "chocolate",
+                        "buy"
+                    ],
+                    "document_count": 229,
+                    "coherence_score": 0.42120581453477846,
+                    "sentiment_distribution": {
+                        "Neutral": 102,
+                        "Positive": 68,
+                        "Negative": 59
+                    }
+                },
+                "topic_53": {
+                    "topic_id": 53,
+                    "topic_label": "Topic 53",
+                    "top_words": [
+                        "rent",
+                        "house",
+                        "parents",
+                        "flat",
+                        "lived",
+                        "shares",
+                        "shared",
+                        "housemates",
+                        "living",
+                        "ownership"
+                    ],
+                    "document_count": 228,
+                    "coherence_score": 0.43406669353046096,
+                    "sentiment_distribution": {
+                        "Neutral": 153,
+                        "Negative": 40,
+                        "Positive": 35
+                    }
+                },
+                "topic_54": {
+                    "topic_id": 54,
+                    "topic_label": "Topic 54",
+                    "top_words": [
+                        "accountancy",
+                        "industry",
+                        "accountant",
+                        "accounting",
+                        "ai",
+                        "magazine",
+                        "sector",
+                        "field",
+                        "degree",
+                        "software"
+                    ],
+                    "document_count": 228,
+                    "coherence_score": 0.33995964893105957,
+                    "sentiment_distribution": {
+                        "Neutral": 168,
+                        "Negative": 37,
+                        "Positive": 23
+                    }
+                },
+                "topic_55": {
+                    "topic_id": 55,
+                    "topic_label": "Topic 55",
+                    "top_words": [
+                        "sleep",
+                        "bed",
+                        "alarm",
+                        "wake",
+                        "caffeine",
+                        "body",
+                        "morning",
+                        "exercise",
+                        "light",
+                        "waking"
+                    ],
+                    "document_count": 228,
+                    "coherence_score": 0.6938124878391098,
+                    "sentiment_distribution": {
+                        "Neutral": 134,
+                        "Positive": 52,
+                        "Negative": 42
+                    }
+                },
+                "topic_56": {
+                    "topic_id": 56,
+                    "topic_label": "Topic 56",
+                    "top_words": [
+                        "career",
+                        "late",
+                        "retrain",
+                        "age",
+                        "new career",
+                        "years",
+                        "life",
+                        "30s",
+                        "start",
+                        "young"
+                    ],
+                    "document_count": 228,
+                    "coherence_score": 0.44246322171300195,
+                    "sentiment_distribution": {
+                        "Neutral": 124,
+                        "Negative": 52,
+                        "Positive": 52
+                    }
+                },
+                "topic_57": {
+                    "topic_id": 57,
+                    "topic_label": "Topic 57",
+                    "top_words": [
+                        "life",
+                        "things",
+                        "depression",
+                        "exercise",
+                        "meds",
+                        "feel",
+                        "therapy",
+                        "weight",
+                        "diet",
+                        "mental"
+                    ],
+                    "document_count": 225,
+                    "coherence_score": 0.48568952965489903,
+                    "sentiment_distribution": {
+                        "Neutral": 106,
+                        "Positive": 80,
+                        "Negative": 39
+                    }
+                },
+                "topic_58": {
+                    "topic_id": 58,
+                    "topic_label": "Topic 58",
+                    "top_words": [
+                        "mug",
+                        "drink",
+                        "tea",
+                        "bottle",
+                        "drinking",
+                        "coffee",
+                        "water",
+                        "pints",
+                        "drinks",
+                        "cup"
+                    ],
+                    "document_count": 224,
+                    "coherence_score": 0.6174492319621168,
+                    "sentiment_distribution": {
+                        "Neutral": 168,
+                        "Negative": 32,
+                        "Positive": 24
+                    }
+                },
+                "topic_59": {
+                    "topic_id": 59,
+                    "topic_label": "Topic 59",
+                    "top_words": [
+                        "clause",
+                        "nepotism",
+                        "ceo",
+                        "uk",
+                        "employees",
+                        "company",
+                        "employee",
+                        "manager",
+                        "employment",
+                        "people"
+                    ],
+                    "document_count": 223,
+                    "coherence_score": 0.27448136841471643,
+                    "sentiment_distribution": {
+                        "Neutral": 143,
+                        "Negative": 53,
+                        "Positive": 27
+                    }
+                },
+                "topic_60": {
+                    "topic_id": 60,
+                    "topic_label": "Topic 60",
+                    "top_words": [
+                        "life",
+                        "20s",
+                        "age",
+                        "things",
+                        "26",
+                        "30s",
+                        "young",
+                        "30",
+                        "feel",
+                        "enjoy"
+                    ],
+                    "document_count": 223,
+                    "coherence_score": 0.3869177786648498,
+                    "sentiment_distribution": {
+                        "Neutral": 102,
+                        "Positive": 61,
+                        "Negative": 60
+                    }
+                },
+                "topic_61": {
+                    "topic_id": 61,
+                    "topic_label": "Topic 61",
+                    "top_words": [
+                        "friends",
+                        "gossip",
+                        "colleagues",
+                        "team",
+                        "meetings",
+                        "people",
+                        "work",
+                        "office",
+                        "talk",
+                        "politics"
+                    ],
+                    "document_count": 220,
+                    "coherence_score": 0.4716262505129646,
+                    "sentiment_distribution": {
+                        "Neutral": 127,
+                        "Negative": 62,
+                        "Positive": 31
+                    }
+                },
+                "topic_62": {
+                    "topic_id": 62,
+                    "topic_label": "Topic 62",
+                    "top_words": [
+                        "notice",
+                        "notice period",
+                        "period",
+                        "contract",
+                        "weeks",
+                        "weeks notice",
+                        "date",
+                        "month notice",
+                        "employer",
+                        "start date"
+                    ],
+                    "document_count": 217,
+                    "coherence_score": 0.7525041942738647,
+                    "sentiment_distribution": {
+                        "Neutral": 161,
+                        "Negative": 32,
+                        "Positive": 24
+                    }
+                },
+                "topic_63": {
+                    "topic_id": 63,
+                    "topic_label": "Topic 63",
+                    "top_words": [
+                        "signal",
+                        "virgin",
+                        "phone",
+                        "network",
+                        "networks",
+                        "broadband",
+                        "wifi",
+                        "calls",
+                        "mobile",
+                        "speed"
+                    ],
+                    "document_count": 216,
+                    "coherence_score": 0.4650101477399159,
+                    "sentiment_distribution": {
+                        "Neutral": 153,
+                        "Negative": 44,
+                        "Positive": 19
+                    }
+                },
+                "topic_64": {
+                    "topic_id": 64,
+                    "topic_label": "Topic 64",
+                    "top_words": [
+                        "uk",
+                        "country",
+                        "living",
+                        "love",
+                        "countries",
+                        "live",
+                        "germany",
+                        "living uk",
+                        "england",
+                        "lived"
+                    ],
+                    "document_count": 216,
+                    "coherence_score": 0.3799161759172422,
+                    "sentiment_distribution": {
+                        "Positive": 79,
+                        "Negative": 76,
+                        "Neutral": 61
+                    }
+                },
+                "topic_65": {
+                    "topic_id": 65,
+                    "topic_label": "Topic 65",
+                    "top_words": [
+                        "holiday",
+                        "holidays",
+                        "christmas",
+                        "leave",
+                        "days",
+                        "annual leave",
+                        "holiday pay",
+                        "annual",
+                        "accrued",
+                        "bank holidays"
+                    ],
+                    "document_count": 216,
+                    "coherence_score": 0.5732602849719409,
+                    "sentiment_distribution": {
+                        "Neutral": 153,
+                        "Negative": 34,
+                        "Positive": 29
+                    }
+                },
+                "topic_66": {
+                    "topic_id": 66,
+                    "topic_label": "Topic 66",
+                    "top_words": [
+                        "visa",
+                        "sponsorship",
+                        "uk",
+                        "sponsor",
+                        "students",
+                        "market",
+                        "job market",
+                        "right work",
+                        "experience",
+                        "visas"
+                    ],
+                    "document_count": 214,
+                    "coherence_score": 0.5829707527617319,
+                    "sentiment_distribution": {
+                        "Neutral": 125,
+                        "Positive": 49,
+                        "Negative": 40
+                    }
+                },
+                "topic_67": {
+                    "topic_id": 67,
+                    "topic_label": "Topic 67",
+                    "top_words": [
+                        "lidl",
+                        "aldi",
+                        "food",
+                        "chocolate",
+                        "tesco",
+                        "shop",
+                        "milk",
+                        "sainsbury",
+                        "bars",
+                        "supermarkets"
+                    ],
+                    "document_count": 211,
+                    "coherence_score": 0.2483950972165423,
+                    "sentiment_distribution": {
+                        "Neutral": 144,
+                        "Negative": 41,
+                        "Positive": 26
+                    }
+                },
+                "topic_68": {
+                    "topic_id": 68,
+                    "topic_label": "Topic 68",
+                    "top_words": [
+                        "market",
+                        "job market",
+                        "jobs",
+                        "hiring",
+                        "unemployment",
+                        "uk",
+                        "companies",
+                        "people",
+                        "job",
+                        "uk job"
+                    ],
+                    "document_count": 210,
+                    "coherence_score": 0.4606149158069751,
+                    "sentiment_distribution": {
+                        "Neutral": 110,
+                        "Negative": 61,
+                        "Positive": 39
+                    }
+                },
+                "topic_69": {
+                    "topic_id": 69,
+                    "topic_label": "Topic 69",
+                    "top_words": [
+                        "dog",
+                        "dogs",
+                        "pet",
+                        "insurance",
+                        "vet",
+                        "pets",
+                        "rescue",
+                        "walker",
+                        "owners",
+                        "vets"
+                    ],
+                    "document_count": 209,
+                    "coherence_score": 0.6494683646091634,
+                    "sentiment_distribution": {
+                        "Neutral": 129,
+                        "Positive": 48,
+                        "Negative": 32
+                    }
+                },
+                "topic_70": {
+                    "topic_id": 70,
+                    "topic_label": "Topic 70",
+                    "top_words": [
+                        "charity",
+                        "price",
+                        "shops",
+                        "shop",
+                        "charity shops",
+                        "sell",
+                        "items",
+                        "pricing",
+                        "charity shop",
+                        "donate"
+                    ],
+                    "document_count": 206,
+                    "coherence_score": 0.6927044758328382,
+                    "sentiment_distribution": {
+                        "Neutral": 138,
+                        "Negative": 48,
+                        "Positive": 20
+                    }
+                },
+                "topic_71": {
+                    "topic_id": 71,
+                    "topic_label": "Topic 71",
+                    "top_words": [
+                        "needs",
+                        "job",
+                        "experience",
+                        "jobs",
+                        "help",
+                        "john",
+                        "doesn",
+                        "field",
+                        "wants",
+                        "phd"
+                    ],
+                    "document_count": 205,
+                    "coherence_score": 0.31536076480698233,
+                    "sentiment_distribution": {
+                        "Neutral": 124,
+                        "Positive": 46,
+                        "Negative": 35
+                    }
+                },
+                "topic_72": {
+                    "topic_id": 72,
+                    "topic_label": "Topic 72",
+                    "top_words": [
+                        "yes",
+                        "bro",
+                        "absolutely",
+                        "yes yes",
+                        "bait",
+                        "nah",
+                        "yes absolutely",
+                        "rage",
+                        "lol",
+                        "fuck"
+                    ],
+                    "document_count": 204,
+                    "coherence_score": 0.3062952394012282,
+                    "sentiment_distribution": {
+                        "Neutral": 164,
+                        "Negative": 40
+                    }
+                },
+                "topic_73": {
+                    "topic_id": 73,
+                    "topic_label": "Topic 73",
+                    "top_words": [
+                        "agencies",
+                        "agency",
+                        "temp",
+                        "linkedin",
+                        "recruitment",
+                        "apply",
+                        "cv",
+                        "jobs",
+                        "recruiters",
+                        "recruitment agency"
+                    ],
+                    "document_count": 203,
+                    "coherence_score": 0.6530664933627902,
+                    "sentiment_distribution": {
+                        "Neutral": 162,
+                        "Positive": 21,
+                        "Negative": 20
+                    }
+                },
+                "topic_74": {
+                    "topic_id": 74,
+                    "topic_label": "Topic 74",
+                    "top_words": [
+                        "manager",
+                        "told",
+                        "worked",
+                        "shift",
+                        "day",
+                        "got",
+                        "boss",
+                        "didn",
+                        "staff",
+                        "store"
+                    ],
+                    "document_count": 199,
+                    "coherence_score": 0.4753944743902643,
+                    "sentiment_distribution": {
+                        "Negative": 88,
+                        "Neutral": 81,
+                        "Positive": 30
+                    }
+                },
+                "topic_75": {
+                    "topic_id": 75,
+                    "topic_label": "Topic 75",
+                    "top_words": [
+                        "maternity",
+                        "pregnant",
+                        "pregnancy",
+                        "maternity leave",
+                        "leave",
+                        "role",
+                        "wife",
+                        "mat",
+                        "mat leave",
+                        "months"
+                    ],
+                    "document_count": 196,
+                    "coherence_score": 0.6714741710955874,
+                    "sentiment_distribution": {
+                        "Neutral": 121,
+                        "Positive": 52,
+                        "Negative": 23
+                    }
+                },
+                "topic_76": {
+                    "topic_id": 76,
+                    "topic_label": "Topic 76",
+                    "top_words": [
+                        "college",
+                        "uni",
+                        "gcses",
+                        "course",
+                        "levels",
+                        "maths",
+                        "english",
+                        "degree",
+                        "education",
+                        "study"
+                    ],
+                    "document_count": 192,
+                    "coherence_score": 0.589489716553336,
+                    "sentiment_distribution": {
+                        "Neutral": 123,
+                        "Positive": 36,
+                        "Negative": 33
+                    }
+                },
+                "topic_77": {
+                    "topic_id": 77,
+                    "topic_label": "Topic 77",
+                    "top_words": [
+                        "smell",
+                        "smells",
+                        "washing",
+                        "washing machine",
+                        "iron",
+                        "machine",
+                        "bakery",
+                        "clean",
+                        "clothes",
+                        "weed"
+                    ],
+                    "document_count": 192,
+                    "coherence_score": 0.3249956177426354,
+                    "sentiment_distribution": {
+                        "Neutral": 127,
+                        "Negative": 43,
+                        "Positive": 22
+                    }
+                },
+                "topic_78": {
+                    "topic_id": 78,
+                    "topic_label": "Topic 78",
+                    "top_words": [
+                        "insurance",
+                        "plumber",
+                        "car",
+                        "police",
+                        "claim",
+                        "damage",
+                        "leak",
+                        "driver",
+                        "report",
+                        "cost"
+                    ],
+                    "document_count": 190,
+                    "coherence_score": 0.45262760003786423,
+                    "sentiment_distribution": {
+                        "Neutral": 132,
+                        "Negative": 32,
+                        "Positive": 26
+                    }
+                },
+                "topic_79": {
+                    "topic_id": 79,
+                    "topic_label": "Topic 79",
+                    "top_words": [
+                        "school",
+                        "education",
+                        "teachers",
+                        "schools",
+                        "kids",
+                        "sen",
+                        "homework",
+                        "child",
+                        "children",
+                        "parents"
+                    ],
+                    "document_count": 189,
+                    "coherence_score": 0.6166045962358913,
+                    "sentiment_distribution": {
+                        "Neutral": 126,
+                        "Negative": 38,
+                        "Positive": 25
+                    }
+                },
+                "topic_80": {
+                    "topic_id": 80,
+                    "topic_label": "Topic 80",
+                    "top_words": [
+                        "care",
+                        "dementia",
+                        "care home",
+                        "mum",
+                        "help",
+                        "grandma",
+                        "support",
+                        "home",
+                        "needs",
+                        "social"
+                    ],
+                    "document_count": 189,
+                    "coherence_score": 0.5564307424542214,
+                    "sentiment_distribution": {
+                        "Neutral": 104,
+                        "Positive": 58,
+                        "Negative": 27
+                    }
+                },
+                "topic_81": {
+                    "topic_id": 81,
+                    "topic_label": "Topic 81",
+                    "top_words": [
+                        "australia",
+                        "aus",
+                        "uk",
+                        "visa",
+                        "country",
+                        "countries",
+                        "nz",
+                        "living",
+                        "canada",
+                        "live"
+                    ],
+                    "document_count": 189,
+                    "coherence_score": 0.191470536198802,
+                    "sentiment_distribution": {
+                        "Neutral": 130,
+                        "Negative": 37,
+                        "Positive": 22
+                    }
+                },
+                "topic_82": {
+                    "topic_id": 82,
+                    "topic_label": "Topic 82",
+                    "top_words": [
+                        "congrats",
+                        "congratulations",
+                        "finally",
+                        "job",
+                        "luck",
+                        "got job",
+                        "hope",
+                        "got",
+                        "new",
+                        "new job"
+                    ],
+                    "document_count": 187,
+                    "coherence_score": 0.3964243420732654,
+                    "sentiment_distribution": {
+                        "Positive": 119,
+                        "Negative": 40,
+                        "Neutral": 28
+                    }
+                },
+                "topic_83": {
+                    "topic_id": 83,
+                    "topic_label": "Topic 83",
+                    "top_words": [
+                        "class",
+                        "working class",
+                        "middle class",
+                        "british",
+                        "middle",
+                        "upper",
+                        "working",
+                        "posh",
+                        "class people",
+                        "people"
+                    ],
+                    "document_count": 180,
+                    "coherence_score": 0.5015458464305209,
+                    "sentiment_distribution": {
+                        "Neutral": 101,
+                        "Negative": 64,
+                        "Positive": 15
+                    }
+                },
+                "topic_84": {
+                    "topic_id": 84,
+                    "topic_label": "Topic 84",
+                    "top_words": [
+                        "salary",
+                        "london",
+                        "30k",
+                        "50k",
+                        "earn",
+                        "grads",
+                        "100k",
+                        "40k",
+                        "science",
+                        "pay"
+                    ],
+                    "document_count": 177,
+                    "coherence_score": 0.3473572524297559,
+                    "sentiment_distribution": {
+                        "Neutral": 123,
+                        "Negative": 38,
+                        "Positive": 16
+                    }
+                },
+                "topic_85": {
+                    "topic_id": 85,
+                    "topic_label": "Topic 85",
+                    "top_words": [
+                        "london",
+                        "city",
+                        "live",
+                        "living",
+                        "expensive",
+                        "moving",
+                        "moving london",
+                        "live london",
+                        "cities",
+                        "life"
+                    ],
+                    "document_count": 177,
+                    "coherence_score": 0.6224604449705543,
+                    "sentiment_distribution": {
+                        "Neutral": 113,
+                        "Positive": 38,
+                        "Negative": 26
+                    }
+                },
+                "topic_86": {
+                    "topic_id": 86,
+                    "topic_label": "Topic 86",
+                    "top_words": [
+                        "salary",
+                        "range",
+                        "recruiter",
+                        "role",
+                        "salary range",
+                        "offer",
+                        "current salary",
+                        "expectations",
+                        "negotiation",
+                        "interview"
+                    ],
+                    "document_count": 174,
+                    "coherence_score": 0.6273951664698798,
+                    "sentiment_distribution": {
+                        "Neutral": 112,
+                        "Positive": 36,
+                        "Negative": 26
+                    }
+                },
+                "topic_87": {
+                    "topic_id": 87,
+                    "topic_label": "Topic 87",
+                    "top_words": [
+                        "dutch",
+                        "capitalism",
+                        "economy",
+                        "economic",
+                        "capital",
+                        "country",
+                        "countries",
+                        "uk",
+                        "government",
+                        "growth"
+                    ],
+                    "document_count": 174,
+                    "coherence_score": 0.35418910353971866,
+                    "sentiment_distribution": {
+                        "Neutral": 120,
+                        "Negative": 32,
+                        "Positive": 22
+                    }
+                },
+                "topic_88": {
+                    "topic_id": 88,
+                    "topic_label": "Topic 88",
+                    "top_words": [
+                        "pip",
+                        "performance",
+                        "improvement",
+                        "manager",
+                        "resign",
+                        "goals",
+                        "meeting",
+                        "review",
+                        "months",
+                        "plan"
+                    ],
+                    "document_count": 174,
+                    "coherence_score": 0.43418060291047256,
+                    "sentiment_distribution": {
+                        "Neutral": 102,
+                        "Positive": 41,
+                        "Negative": 31
+                    }
+                },
+                "topic_89": {
+                    "topic_id": 89,
+                    "topic_label": "Topic 89",
+                    "top_words": [
+                        "glasses",
+                        "prescription",
+                        "eye",
+                        "vision",
+                        "eyes",
+                        "pair",
+                        "screen",
+                        "lights",
+                        "test",
+                        "wear"
+                    ],
+                    "document_count": 171,
+                    "coherence_score": 0.6296821503776108,
+                    "sentiment_distribution": {
+                        "Neutral": 127,
+                        "Negative": 27,
+                        "Positive": 17
+                    }
+                },
+                "topic_90": {
+                    "topic_id": 90,
+                    "topic_label": "Topic 90",
+                    "top_words": [
+                        "police",
+                        "deposit",
+                        "report",
+                        "quote",
+                        "contact",
+                        "cash",
+                        "bathroom",
+                        "tell",
+                        "tradesman",
+                        "camera"
+                    ],
+                    "document_count": 167,
+                    "coherence_score": 0.1743340158740087,
+                    "sentiment_distribution": {
+                        "Neutral": 111,
+                        "Negative": 28,
+                        "Positive": 28
+                    }
+                },
+                "topic_91": {
+                    "topic_id": 91,
+                    "topic_label": "Topic 91",
+                    "top_words": [
+                        "bin",
+                        "bins",
+                        "waste",
+                        "rubbish",
+                        "lock",
+                        "council",
+                        "litter",
+                        "plastic",
+                        "garden",
+                        "lid"
+                    ],
+                    "document_count": 166,
+                    "coherence_score": 0.626482519828278,
+                    "sentiment_distribution": {
+                        "Neutral": 130,
+                        "Negative": 24,
+                        "Positive": 12
+                    }
+                },
+                "topic_92": {
+                    "topic_id": 92,
+                    "topic_label": "Topic 92",
+                    "top_words": [
+                        "commute",
+                        "train",
+                        "mins",
+                        "hour",
+                        "delays",
+                        "walk",
+                        "station",
+                        "london",
+                        "journey",
+                        "seat"
+                    ],
+                    "document_count": 161,
+                    "coherence_score": 0.5959019449114888,
+                    "sentiment_distribution": {
+                        "Neutral": 108,
+                        "Negative": 36,
+                        "Positive": 17
+                    }
+                },
+                "topic_93": {
+                    "topic_id": 93,
+                    "topic_label": "Topic 93",
+                    "top_words": [
+                        "deleted",
+                        "mass",
+                        "dev",
+                        "post",
+                        "https",
+                        "home",
+                        "whistle",
+                        "liquid",
+                        "lemon",
+                        "bells"
+                    ],
+                    "document_count": 153,
+                    "coherence_score": 0.3296434195130653,
+                    "sentiment_distribution": {
+                        "Neutral": 125,
+                        "Negative": 18,
+                        "Positive": 10
+                    }
+                },
+                "topic_94": {
+                    "topic_id": 94,
+                    "topic_label": "Topic 94",
+                    "top_words": [
+                        "mistakes",
+                        "ask",
+                        "make mistakes",
+                        "mistake",
+                        "make",
+                        "ask questions",
+                        "don",
+                        "learn",
+                        "office",
+                        "notes"
+                    ],
+                    "document_count": 151,
+                    "coherence_score": 0.3331213217238735,
+                    "sentiment_distribution": {
+                        "Neutral": 73,
+                        "Negative": 39,
+                        "Positive": 39
+                    }
+                },
+                "topic_95": {
+                    "topic_id": 95,
+                    "topic_label": "Topic 95",
+                    "top_words": [
+                        "scam",
+                        "kindly",
+                        "scams",
+                        "email",
+                        "company",
+                        "legit",
+                        "website",
+                        "customer support",
+                        "certificate",
+                        "reviews"
+                    ],
+                    "document_count": 151,
+                    "coherence_score": 0.31010620461072225,
+                    "sentiment_distribution": {
+                        "Neutral": 99,
+                        "Negative": 37,
+                        "Positive": 15
+                    }
+                },
+                "topic_96": {
+                    "topic_id": 96,
+                    "topic_label": "Topic 96",
+                    "top_words": [
+                        "military",
+                        "navy",
+                        "forces",
+                        "army",
+                        "officer",
+                        "join",
+                        "royal",
+                        "training",
+                        "armed",
+                        "police"
+                    ],
+                    "document_count": 150,
+                    "coherence_score": 0.37352066011595986,
+                    "sentiment_distribution": {
+                        "Neutral": 102,
+                        "Positive": 24,
+                        "Negative": 24
+                    }
+                },
+                "topic_97": {
+                    "topic_id": 97,
+                    "topic_label": "Topic 97",
+                    "top_words": [
+                        "migraines",
+                        "symptoms",
+                        "iron",
+                        "ill",
+                        "migraine",
+                        "gp",
+                        "headaches",
+                        "fever",
+                        "spray",
+                        "flu"
+                    ],
+                    "document_count": 149,
+                    "coherence_score": 0.34045247315719307,
+                    "sentiment_distribution": {
+                        "Neutral": 76,
+                        "Positive": 43,
+                        "Negative": 30
+                    }
+                },
+                "topic_98": {
+                    "topic_id": 98,
+                    "topic_label": "Topic 98",
+                    "top_words": [
+                        "said",
+                        "asked",
+                        "bar",
+                        "walked",
+                        "went",
+                        "got",
+                        "didn",
+                        "20",
+                        "boarding",
+                        "years ago"
+                    ],
+                    "document_count": 147,
+                    "coherence_score": 0.4227235631822446,
+                    "sentiment_distribution": {
+                        "Neutral": 67,
+                        "Negative": 55,
+                        "Positive": 25
+                    }
+                },
+                "topic_99": {
+                    "topic_id": 99,
+                    "topic_label": "Topic 99",
+                    "top_words": [
+                        "probation",
+                        "period",
+                        "probation period",
+                        "notice",
+                        "extended",
+                        "probationary",
+                        "contract",
+                        "month",
+                        "employment",
+                        "manager"
+                    ],
+                    "document_count": 147,
+                    "coherence_score": 0.7377533199723838,
+                    "sentiment_distribution": {
+                        "Neutral": 83,
+                        "Positive": 36,
+                        "Negative": 28
+                    }
+                },
+                "topic_100": {
+                    "topic_id": 100,
+                    "topic_label": "Topic 100",
+                    "top_words": [
+                        "accounting",
+                        "finance",
+                        "aat",
+                        "accountant",
+                        "degree",
+                        "qualified",
+                        "accountancy",
+                        "audit",
+                        "level",
+                        "experience"
+                    ],
+                    "document_count": 146,
+                    "coherence_score": 0.5543737583327676,
+                    "sentiment_distribution": {
+                        "Neutral": 86,
+                        "Positive": 33,
+                        "Negative": 27
+                    }
+                },
+                "topic_101": {
+                    "topic_id": 101,
+                    "topic_label": "Topic 101",
+                    "top_words": [
+                        "starmer",
+                        "party",
+                        "labour",
+                        "wing",
+                        "minister",
+                        "deputy",
+                        "foreign",
+                        "right wing",
+                        "political",
+                        "vote"
+                    ],
+                    "document_count": 144,
+                    "coherence_score": 0.35501548704208197,
+                    "sentiment_distribution": {
+                        "Neutral": 87,
+                        "Negative": 43,
+                        "Positive": 14
+                    }
+                },
+                "topic_102": {
+                    "topic_id": 102,
+                    "topic_label": "Topic 102",
+                    "top_words": [
+                        "dog",
+                        "dogs",
+                        "noise",
+                        "owners",
+                        "animal",
+                        "report",
+                        "animals",
+                        "loud",
+                        "council",
+                        "neighbour"
+                    ],
+                    "document_count": 144,
+                    "coherence_score": 0.6056705354615726,
+                    "sentiment_distribution": {
+                        "Neutral": 82,
+                        "Negative": 32,
+                        "Positive": 30
+                    }
+                },
+                "topic_103": {
+                    "topic_id": 103,
+                    "topic_label": "Topic 103",
+                    "top_words": [
+                        "notice",
+                        "resignation",
+                        "hand notice",
+                        "contract",
+                        "letter",
+                        "date",
+                        "hand",
+                        "handing",
+                        "handing notice",
+                        "manager"
+                    ],
+                    "document_count": 143,
+                    "coherence_score": 0.6983402976494267,
+                    "sentiment_distribution": {
+                        "Neutral": 87,
+                        "Positive": 32,
+                        "Negative": 24
+                    }
+                },
+                "topic_104": {
+                    "topic_id": 104,
+                    "topic_label": "Topic 104",
+                    "top_words": [
+                        "driving",
+                        "drive",
+                        "manual",
+                        "automatic",
+                        "car",
+                        "lessons",
+                        "license",
+                        "cars",
+                        "test",
+                        "licence"
+                    ],
+                    "document_count": 141,
+                    "coherence_score": 0.775586944030256,
+                    "sentiment_distribution": {
+                        "Neutral": 108,
+                        "Negative": 17,
+                        "Positive": 16
+                    }
+                },
+                "topic_105": {
+                    "topic_id": 105,
+                    "topic_label": "Topic 105",
+                    "top_words": [
+                        "scam",
+                        "owner",
+                        "yes",
+                        "company",
+                        "zoom",
+                        "legit",
+                        "ad",
+                        "email",
+                        "com",
+                        "reviews"
+                    ],
+                    "document_count": 139,
+                    "coherence_score": 0.3246473473355165,
+                    "sentiment_distribution": {
+                        "Neutral": 84,
+                        "Negative": 39,
+                        "Positive": 16
+                    }
+                },
+                "topic_106": {
+                    "topic_id": 106,
+                    "topic_label": "Topic 106",
+                    "top_words": [
+                        "wfh",
+                        "days",
+                        "office",
+                        "week",
+                        "day week",
+                        "days week",
+                        "day",
+                        "days office",
+                        "office days",
+                        "work"
+                    ],
+                    "document_count": 139,
+                    "coherence_score": 0.6573483469655056,
+                    "sentiment_distribution": {
+                        "Neutral": 95,
+                        "Positive": 23,
+                        "Negative": 21
+                    }
+                },
+                "topic_107": {
+                    "topic_id": 107,
+                    "topic_label": "Topic 107",
+                    "top_words": [
+                        "park",
+                        "parking",
+                        "driveway",
+                        "space",
+                        "outside house",
+                        "council",
+                        "spaces",
+                        "road",
+                        "pavement",
+                        "car"
+                    ],
+                    "document_count": 138,
+                    "coherence_score": 0.6777824574778055,
+                    "sentiment_distribution": {
+                        "Neutral": 100,
+                        "Negative": 26,
+                        "Positive": 12
+                    }
+                },
+                "topic_108": {
+                    "topic_id": 108,
+                    "topic_label": "Topic 108",
+                    "top_words": [
+                        "air",
+                        "windows",
+                        "vacuum",
+                        "ac",
+                        "battery",
+                        "room",
+                        "dry",
+                        "bought",
+                        "henry",
+                        "heat"
+                    ],
+                    "document_count": 137,
+                    "coherence_score": 0.23856001694621085,
+                    "sentiment_distribution": {
+                        "Neutral": 78,
+                        "Negative": 34,
+                        "Positive": 25
+                    }
+                },
+                "topic_109": {
+                    "topic_id": 109,
+                    "topic_label": "Topic 109",
+                    "top_words": [
+                        "acas",
+                        "legaladviceuk",
+                        "advice",
+                        "citizens advice",
+                        "citizens",
+                        "contact acas",
+                        "www",
+                        "contact",
+                        "org uk",
+                        "org"
+                    ],
+                    "document_count": 137,
+                    "coherence_score": 0.251921721650026,
+                    "sentiment_distribution": {
+                        "Neutral": 117,
+                        "Positive": 11,
+                        "Negative": 9
+                    }
+                },
+                "topic_110": {
+                    "topic_id": 110,
+                    "topic_label": "Topic 110",
+                    "top_words": [
+                        "tax",
+                        "taxes",
+                        "rich",
+                        "wealth",
+                        "paying",
+                        "cash",
+                        "government",
+                        "businesses",
+                        "billionaires",
+                        "paying tax"
+                    ],
+                    "document_count": 135,
+                    "coherence_score": 0.6229237884374071,
+                    "sentiment_distribution": {
+                        "Neutral": 94,
+                        "Negative": 28,
+                        "Positive": 13
+                    }
+                },
+                "topic_111": {
+                    "topic_id": 111,
+                    "topic_label": "Topic 111",
+                    "top_words": [
+                        "degree",
+                        "degrees",
+                        "masters",
+                        "university",
+                        "uni",
+                        "field",
+                        "lab",
+                        "qualifications",
+                        "msc",
+                        "education"
+                    ],
+                    "document_count": 134,
+                    "coherence_score": 0.5156749737838544,
+                    "sentiment_distribution": {
+                        "Neutral": 84,
+                        "Negative": 31,
+                        "Positive": 19
+                    }
+                },
+                "topic_112": {
+                    "topic_id": 112,
+                    "topic_label": "Topic 112",
+                    "top_words": [
+                        "care",
+                        "carers",
+                        "carer",
+                        "care home",
+                        "care work",
+                        "home",
+                        "residents",
+                        "homes",
+                        "children",
+                        "workers"
+                    ],
+                    "document_count": 131,
+                    "coherence_score": 0.5747922637138719,
+                    "sentiment_distribution": {
+                        "Neutral": 73,
+                        "Negative": 32,
+                        "Positive": 26
+                    }
+                },
+                "topic_113": {
+                    "topic_id": 113,
+                    "topic_label": "Topic 113",
+                    "top_words": [
+                        "manager",
+                        "boss",
+                        "managers",
+                        "management",
+                        "bad",
+                        "good",
+                        "bosses",
+                        "team",
+                        "ve good",
+                        "boss ve"
+                    ],
+                    "document_count": 130,
+                    "coherence_score": 0.5066626711470312,
+                    "sentiment_distribution": {
+                        "Neutral": 66,
+                        "Negative": 54,
+                        "Positive": 10
+                    }
+                },
+                "topic_114": {
+                    "topic_id": 114,
+                    "topic_label": "Topic 114",
+                    "top_words": [
+                        "offer",
+                        "interview",
+                        "second",
+                        "role",
+                        "job",
+                        "accept",
+                        "second job",
+                        "job offer",
+                        "interviewing",
+                        "accept job"
+                    ],
+                    "document_count": 129,
+                    "coherence_score": 0.6017937774956551,
+                    "sentiment_distribution": {
+                        "Neutral": 94,
+                        "Positive": 19,
+                        "Negative": 16
+                    }
+                },
+                "topic_115": {
+                    "topic_id": 115,
+                    "topic_label": "Topic 115",
+                    "top_words": [
+                        "contract",
+                        "signed",
+                        "company",
+                        "offer",
+                        "signed contract",
+                        "start date",
+                        "date",
+                        "notice",
+                        "start",
+                        "withdraw"
+                    ],
+                    "document_count": 129,
+                    "coherence_score": 0.6714456219686273,
+                    "sentiment_distribution": {
+                        "Neutral": 102,
+                        "Positive": 17,
+                        "Negative": 10
+                    }
+                },
+                "topic_116": {
+                    "topic_id": 116,
+                    "topic_label": "Topic 116",
+                    "top_words": [
+                        "gym",
+                        "treadmill",
+                        "fitness",
+                        "weights",
+                        "membership",
+                        "workout",
+                        "lifts",
+                        "bench",
+                        "swimming",
+                        "lifting"
+                    ],
+                    "document_count": 128,
+                    "coherence_score": 0.374658737171074,
+                    "sentiment_distribution": {
+                        "Neutral": 76,
+                        "Negative": 31,
+                        "Positive": 21
+                    }
+                },
+                "topic_117": {
+                    "topic_id": 117,
+                    "topic_label": "Topic 117",
+                    "top_words": [
+                        "reason",
+                        "leaving",
+                        "reference",
+                        "previous",
+                        "say",
+                        "interview",
+                        "employer",
+                        "left",
+                        "mention",
+                        "reason leaving"
+                    ],
+                    "document_count": 128,
+                    "coherence_score": 0.4832757331494679,
+                    "sentiment_distribution": {
+                        "Neutral": 78,
+                        "Negative": 26,
+                        "Positive": 24
+                    }
+                },
+                "topic_118": {
+                    "topic_id": 118,
+                    "topic_label": "Topic 118",
+                    "top_words": [
+                        "books",
+                        "read",
+                        "reading",
+                        "book",
+                        "audiobooks",
+                        "series",
+                        "love",
+                        "listening",
+                        "audio",
+                        "old"
+                    ],
+                    "document_count": 126,
+                    "coherence_score": 0.4369806043608871,
+                    "sentiment_distribution": {
+                        "Neutral": 67,
+                        "Positive": 32,
+                        "Negative": 27
+                    }
+                },
+                "topic_119": {
+                    "topic_id": 119,
+                    "topic_label": "Topic 119",
+                    "top_words": [
+                        "new job",
+                        "need need",
+                        "start looking",
+                        "new",
+                        "job",
+                        "looking new",
+                        "job time",
+                        "sounds like",
+                        "sounds",
+                        "job sounds"
+                    ],
+                    "document_count": 126,
+                    "coherence_score": 0.6226669568385531,
+                    "sentiment_distribution": {
+                        "Neutral": 93,
+                        "Negative": 26,
+                        "Positive": 7
+                    }
+                },
+                "topic_120": {
+                    "topic_id": 120,
+                    "topic_label": "Topic 120",
+                    "top_words": [
+                        "pay cut",
+                        "cut",
+                        "life",
+                        "job",
+                        "money",
+                        "pay",
+                        "took",
+                        "happiness",
+                        "worth",
+                        "afford"
+                    ],
+                    "document_count": 125,
+                    "coherence_score": 0.42468568449374994,
+                    "sentiment_distribution": {
+                        "Neutral": 53,
+                        "Negative": 40,
+                        "Positive": 32
+                    }
+                },
+                "topic_121": {
+                    "topic_id": 121,
+                    "topic_label": "Topic 121",
+                    "top_words": [
+                        "nuclear",
+                        "solar",
+                        "energy",
+                        "power",
+                        "farmers",
+                        "safe",
+                        "sheep",
+                        "paranoia",
+                        "net",
+                        "anti"
+                    ],
+                    "document_count": 124,
+                    "coherence_score": 0.34129482100440794,
+                    "sentiment_distribution": {
+                        "Neutral": 90,
+                        "Negative": 21,
+                        "Positive": 13
+                    }
+                },
+                "topic_122": {
+                    "topic_id": 122,
+                    "topic_label": "Topic 122",
+                    "top_words": [
+                        "weird",
+                        "strange",
+                        "bed",
+                        "sleeping",
+                        "sleep",
+                        "meditation",
+                        "couples",
+                        "beds",
+                        "separate",
+                        "think"
+                    ],
+                    "document_count": 124,
+                    "coherence_score": 0.36101340834925544,
+                    "sentiment_distribution": {
+                        "Neutral": 72,
+                        "Negative": 31,
+                        "Positive": 21
+                    }
+                },
+                "topic_123": {
+                    "topic_id": 123,
+                    "topic_label": "Topic 123",
+                    "top_words": [
+                        "uncle",
+                        "died",
+                        "sorry loss",
+                        "talk",
+                        "loved",
+                        "sorry",
+                        "person",
+                        "loss",
+                        "health",
+                        "grief"
+                    ],
+                    "document_count": 122,
+                    "coherence_score": 0.37806800637207333,
+                    "sentiment_distribution": {
+                        "Positive": 60,
+                        "Neutral": 44,
+                        "Negative": 18
+                    }
+                },
+                "topic_124": {
+                    "topic_id": 124,
+                    "topic_label": "Topic 124",
+                    "top_words": [
+                        "uc",
+                        "universal credit",
+                        "universal",
+                        "credit",
+                        "food",
+                        "claim",
+                        "bank",
+                        "advance",
+                        "month",
+                        "local"
+                    ],
+                    "document_count": 120,
+                    "coherence_score": 0.4348011905767452,
+                    "sentiment_distribution": {
+                        "Neutral": 82,
+                        "Positive": 24,
+                        "Negative": 14
+                    }
+                },
+                "topic_125": {
+                    "topic_id": 125,
+                    "topic_label": "Topic 125",
+                    "top_words": [
+                        "volunteering",
+                        "cv",
+                        "experience",
+                        "jobs",
+                        "volunteer",
+                        "applied",
+                        "look",
+                        "apply",
+                        "help",
+                        "job"
+                    ],
+                    "document_count": 119,
+                    "coherence_score": 0.5164090519651572,
+                    "sentiment_distribution": {
+                        "Neutral": 77,
+                        "Positive": 24,
+                        "Negative": 18
+                    }
+                },
+                "topic_126": {
+                    "topic_id": 126,
+                    "topic_label": "Topic 126",
+                    "top_words": [
+                        "cleaner",
+                        "cleaning",
+                        "dishes",
+                        "clean",
+                        "boss",
+                        "cleaners",
+                        "key",
+                        "cleaned",
+                        "pieces",
+                        "tasks"
+                    ],
+                    "document_count": 119,
+                    "coherence_score": 0.3835604825190609,
+                    "sentiment_distribution": {
+                        "Neutral": 71,
+                        "Negative": 30,
+                        "Positive": 18
+                    }
+                },
+                "topic_127": {
+                    "topic_id": 127,
+                    "topic_label": "Topic 127",
+                    "top_words": [
+                        "child",
+                        "social services",
+                        "kids",
+                        "social",
+                        "children",
+                        "abuse",
+                        "services",
+                        "daughter",
+                        "police",
+                        "abusive"
+                    ],
+                    "document_count": 119,
+                    "coherence_score": 0.6972538435129766,
+                    "sentiment_distribution": {
+                        "Neutral": 71,
+                        "Positive": 24,
+                        "Negative": 24
+                    }
+                },
+                "topic_128": {
+                    "topic_id": 128,
+                    "topic_label": "Topic 128",
+                    "top_words": [
+                        "break",
+                        "career break",
+                        "travelling",
+                        "travel",
+                        "career",
+                        "sabbatical",
+                        "gap",
+                        "year",
+                        "months",
+                        "job"
+                    ],
+                    "document_count": 114,
+                    "coherence_score": 0.44951027008316047,
+                    "sentiment_distribution": {
+                        "Neutral": 64,
+                        "Positive": 30,
+                        "Negative": 20
+                    }
+                },
+                "topic_129": {
+                    "topic_id": 129,
+                    "topic_label": "Topic 129",
+                    "top_words": [
+                        "commute",
+                        "remote",
+                        "hybrid",
+                        "office",
+                        "days",
+                        "week",
+                        "days week",
+                        "wfh",
+                        "fully remote",
+                        "salary"
+                    ],
+                    "document_count": 113,
+                    "coherence_score": 0.7143803681931113,
+                    "sentiment_distribution": {
+                        "Neutral": 80,
+                        "Negative": 18,
+                        "Positive": 15
+                    }
+                },
+                "topic_130": {
+                    "topic_id": 130,
+                    "topic_label": "Topic 130",
+                    "top_words": [
+                        "dress",
+                        "wear",
+                        "shirt",
+                        "jeans",
+                        "white",
+                        "wedding",
+                        "shoes",
+                        "black",
+                        "wearing",
+                        "casual"
+                    ],
+                    "document_count": 112,
+                    "coherence_score": 0.7248776880667979,
+                    "sentiment_distribution": {
+                        "Neutral": 78,
+                        "Negative": 22,
+                        "Positive": 12
+                    }
+                },
+                "topic_131": {
+                    "topic_id": 131,
+                    "topic_label": "Topic 131",
+                    "top_words": [
+                        "house",
+                        "estate",
+                        "agent",
+                        "agents",
+                        "price",
+                        "estate agent",
+                        "sell",
+                        "viewing",
+                        "flat",
+                        "property"
+                    ],
+                    "document_count": 111,
+                    "coherence_score": 0.7071080969981864,
+                    "sentiment_distribution": {
+                        "Neutral": 74,
+                        "Negative": 24,
+                        "Positive": 13
+                    }
+                },
+                "topic_132": {
+                    "topic_id": 132,
+                    "topic_label": "Topic 132",
+                    "top_words": [
+                        "hospital",
+                        "nhs",
+                        "ambulance",
+                        "hospitals",
+                        "private",
+                        "emergency",
+                        "patients",
+                        "shortage",
+                        "patient",
+                        "cancer"
+                    ],
+                    "document_count": 110,
+                    "coherence_score": 0.518223710143091,
+                    "sentiment_distribution": {
+                        "Neutral": 82,
+                        "Negative": 16,
+                        "Positive": 12
+                    }
+                },
+                "topic_133": {
+                    "topic_id": 133,
+                    "topic_label": "Topic 133",
+                    "top_words": [
+                        "walk",
+                        "walks",
+                        "museums",
+                        "play",
+                        "hobby",
+                        "watch",
+                        "walking",
+                        "day",
+                        "hiking",
+                        "free"
+                    ],
+                    "document_count": 107,
+                    "coherence_score": 0.3204947025049937,
+                    "sentiment_distribution": {
+                        "Neutral": 67,
+                        "Negative": 29,
+                        "Positive": 11
+                    }
+                },
+                "topic_134": {
+                    "topic_id": 134,
+                    "topic_label": "Topic 134",
+                    "top_words": [
+                        "skin",
+                        "smell",
+                        "sun",
+                        "use",
+                        "products",
+                        "face",
+                        "smells",
+                        "oil",
+                        "spray",
+                        "cream"
+                    ],
+                    "document_count": 106,
+                    "coherence_score": 0.32520128086861655,
+                    "sentiment_distribution": {
+                        "Neutral": 58,
+                        "Negative": 31,
+                        "Positive": 17
+                    }
+                },
+                "topic_135": {
+                    "topic_id": 135,
+                    "topic_label": "Topic 135",
+                    "top_words": [
+                        "scan",
+                        "card",
+                        "till",
+                        "trolley",
+                        "theft",
+                        "tesco",
+                        "checkout",
+                        "steal",
+                        "shop",
+                        "police"
+                    ],
+                    "document_count": 105,
+                    "coherence_score": 0.18359428583606474,
+                    "sentiment_distribution": {
+                        "Neutral": 63,
+                        "Negative": 32,
+                        "Positive": 10
+                    }
+                },
+                "topic_136": {
+                    "topic_id": 136,
+                    "topic_label": "Topic 136",
+                    "top_words": [
+                        "immigration",
+                        "immigrants",
+                        "migration",
+                        "country",
+                        "white",
+                        "settlement",
+                        "illegal",
+                        "uk",
+                        "countries",
+                        "economic"
+                    ],
+                    "document_count": 104,
+                    "coherence_score": 0.4885613766883411,
+                    "sentiment_distribution": {
+                        "Neutral": 69,
+                        "Negative": 26,
+                        "Positive": 9
+                    }
+                },
+                "topic_137": {
+                    "topic_id": 137,
+                    "topic_label": "Topic 137",
+                    "top_words": [
+                        "webp",
+                        "https preview",
+                        "auto webp",
+                        "preview redd",
+                        "redd",
+                        "preview",
+                        "width",
+                        "jpeg width",
+                        "jpeg",
+                        "pjpg auto"
+                    ],
+                    "document_count": 104,
+                    "coherence_score": 0.5112856138678226,
+                    "sentiment_distribution": {
+                        "Neutral": 91,
+                        "Positive": 8,
+                        "Negative": 5
+                    }
+                },
+                "topic_138": {
+                    "topic_id": 138,
+                    "topic_label": "Topic 138",
+                    "top_words": [
+                        "minister",
+                        "aunt",
+                        "mp",
+                        "labour",
+                        "homelessness",
+                        "resign",
+                        "government",
+                        "leader",
+                        "politics",
+                        "tory"
+                    ],
+                    "document_count": 103,
+                    "coherence_score": 0.31668957955122073,
+                    "sentiment_distribution": {
+                        "Neutral": 62,
+                        "Negative": 33,
+                        "Positive": 8
+                    }
+                },
+                "topic_139": {
+                    "topic_id": 139,
+                    "topic_label": "Topic 139",
+                    "top_words": [
+                        "toilet",
+                        "site",
+                        "locked",
+                        "key",
+                        "door",
+                        "female",
+                        "lock",
+                        "toilets",
+                        "loo",
+                        "women"
+                    ],
+                    "document_count": 103,
+                    "coherence_score": 0.5946408048034614,
+                    "sentiment_distribution": {
+                        "Neutral": 72,
+                        "Negative": 17,
+                        "Positive": 14
+                    }
+                },
+                "topic_140": {
+                    "topic_id": 140,
+                    "topic_label": "Topic 140",
+                    "top_words": [
+                        "retail",
+                        "experience",
+                        "shop",
+                        "jobs",
+                        "retail jobs",
+                        "retail job",
+                        "work retail",
+                        "cv",
+                        "apply",
+                        "working retail"
+                    ],
+                    "document_count": 102,
+                    "coherence_score": 0.5713004131007358,
+                    "sentiment_distribution": {
+                        "Neutral": 57,
+                        "Negative": 33,
+                        "Positive": 12
+                    }
+                },
+                "topic_141": {
+                    "topic_id": 141,
+                    "topic_label": "Topic 141",
+                    "top_words": [
+                        "pan",
+                        "mum",
+                        "knife",
+                        "old",
+                        "used",
+                        "use",
+                        "handle",
+                        "egg",
+                        "cup",
+                        "passed"
+                    ],
+                    "document_count": 102,
+                    "coherence_score": 0.2930775760250045,
+                    "sentiment_distribution": {
+                        "Neutral": 70,
+                        "Negative": 22,
+                        "Positive": 10
+                    }
+                },
+                "topic_142": {
+                    "topic_id": 142,
+                    "topic_label": "Topic 142",
+                    "top_words": [
+                        "recruiter",
+                        "recruiters",
+                        "recruitment",
+                        "details",
+                        "company",
+                        "agency",
+                        "recruitment agency",
+                        "long term",
+                        "candidates",
+                        "term"
+                    ],
+                    "document_count": 102,
+                    "coherence_score": 0.49935999855357033,
+                    "sentiment_distribution": {
+                        "Neutral": 70,
+                        "Negative": 23,
+                        "Positive": 9
+                    }
+                },
+                "topic_143": {
+                    "topic_id": 143,
+                    "topic_label": "Topic 143",
+                    "top_words": [
+                        "food",
+                        "lunch",
+                        "eat",
+                        "meal",
+                        "takeaway",
+                        "weight",
+                        "protein",
+                        "takeaways",
+                        "eating",
+                        "muscle"
+                    ],
+                    "document_count": 101,
+                    "coherence_score": 0.6154805580103452,
+                    "sentiment_distribution": {
+                        "Neutral": 64,
+                        "Positive": 23,
+                        "Negative": 14
+                    }
+                },
+                "topic_144": {
+                    "topic_id": 144,
+                    "topic_label": "Topic 144",
+                    "top_words": [
+                        "passport",
+                        "renewal",
+                        "dbs",
+                        "insurance",
+                        "address",
+                        "photo",
+                        "bank",
+                        "id",
+                        "proof",
+                        "expired"
+                    ],
+                    "document_count": 101,
+                    "coherence_score": 0.2849166934452044,
+                    "sentiment_distribution": {
+                        "Neutral": 80,
+                        "Positive": 14,
+                        "Negative": 7
+                    }
+                },
+                "topic_145": {
+                    "topic_id": 145,
+                    "topic_label": "Topic 145",
+                    "top_words": [
+                        "eu",
+                        "trump",
+                        "brexit",
+                        "chinese",
+                        "fishing",
+                        "europe",
+                        "russia",
+                        "france",
+                        "britain",
+                        "america"
+                    ],
+                    "document_count": 100,
+                    "coherence_score": 0.3047505458706058,
+                    "sentiment_distribution": {
+                        "Neutral": 69,
+                        "Negative": 23,
+                        "Positive": 8
+                    }
+                },
+                "topic_146": {
+                    "topic_id": 146,
+                    "topic_label": "Topic 146",
+                    "top_words": [
+                        "therapy",
+                        "mental",
+                        "mental health",
+                        "therapist",
+                        "help",
+                        "health",
+                        "gp",
+                        "nhs",
+                        "support",
+                        "services"
+                    ],
+                    "document_count": 97,
+                    "coherence_score": 0.5441412129155594,
+                    "sentiment_distribution": {
+                        "Neutral": 55,
+                        "Positive": 28,
+                        "Negative": 14
+                    }
+                },
+                "topic_147": {
+                    "topic_id": 147,
+                    "topic_label": "Topic 147",
+                    "top_words": [
+                        "rude",
+                        "op",
+                        "polite",
+                        "complain",
+                        "complaints",
+                        "complaint",
+                        "wrong",
+                        "advice",
+                        "sorry op",
+                        "write"
+                    ],
+                    "document_count": 96,
+                    "coherence_score": 0.3950244488261345,
+                    "sentiment_distribution": {
+                        "Negative": 39,
+                        "Neutral": 38,
+                        "Positive": 19
+                    }
+                },
+                "topic_148": {
+                    "topic_id": 148,
+                    "topic_label": "Topic 148",
+                    "top_words": [
+                        "friday",
+                        "monday",
+                        "weekend",
+                        "day",
+                        "day weeks",
+                        "bank",
+                        "fridays",
+                        "week",
+                        "bank holidays",
+                        "bank holiday"
+                    ],
+                    "document_count": 95,
+                    "coherence_score": 0.5766712375044853,
+                    "sentiment_distribution": {
+                        "Neutral": 52,
+                        "Negative": 29,
+                        "Positive": 14
+                    }
+                },
+                "topic_149": {
+                    "topic_id": 149,
+                    "topic_label": "Topic 149",
+                    "top_words": [
+                        "payroll",
+                        "pay",
+                        "hmrc",
+                        "deductions",
+                        "payment",
+                        "paid",
+                        "acas",
+                        "owed",
+                        "employer",
+                        "claim"
+                    ],
+                    "document_count": 95,
+                    "coherence_score": 0.35648223772986387,
+                    "sentiment_distribution": {
+                        "Neutral": 59,
+                        "Negative": 22,
+                        "Positive": 14
+                    }
+                },
+                "topic_150": {
+                    "topic_id": 150,
+                    "topic_label": "Topic 150",
+                    "top_words": [
+                        "seat",
+                        "seats",
+                        "disabled",
+                        "badge",
+                        "elderly",
+                        "disability",
+                        "priority",
+                        "bus",
+                        "sit",
+                        "lady"
+                    ],
+                    "document_count": 95,
+                    "coherence_score": 0.4647270020675445,
+                    "sentiment_distribution": {
+                        "Neutral": 53,
+                        "Negative": 27,
+                        "Positive": 15
+                    }
+                },
+                "topic_151": {
+                    "topic_id": 151,
+                    "topic_label": "Topic 151",
+                    "top_words": [
+                        "volunteer",
+                        "volunteering",
+                        "dog",
+                        "dog walking",
+                        "local",
+                        "litter",
+                        "charity",
+                        "walking",
+                        "charities",
+                        "groups"
+                    ],
+                    "document_count": 94,
+                    "coherence_score": 0.547515087684062,
+                    "sentiment_distribution": {
+                        "Neutral": 74,
+                        "Positive": 10,
+                        "Negative": 10
+                    }
+                },
+                "topic_152": {
+                    "topic_id": 152,
+                    "topic_label": "Topic 152",
+                    "top_words": [
+                        "hr",
+                        "manager",
+                        "employee",
+                        "colleague",
+                        "direct manager",
+                        "department",
+                        "email hr",
+                        "speak",
+                        "sent",
+                        "hr department"
+                    ],
+                    "document_count": 94,
+                    "coherence_score": 0.46438183317138854,
+                    "sentiment_distribution": {
+                        "Neutral": 78,
+                        "Negative": 10,
+                        "Positive": 6
+                    }
+                },
+                "topic_153": {
+                    "topic_id": 153,
+                    "topic_label": "Topic 153",
+                    "top_words": [
+                        "nhs",
+                        "doctors",
+                        "patients",
+                        "staff",
+                        "patient",
+                        "leadership",
+                        "nurses",
+                        "medical",
+                        "https",
+                        "healthcare"
+                    ],
+                    "document_count": 92,
+                    "coherence_score": 0.666059968732942,
+                    "sentiment_distribution": {
+                        "Neutral": 49,
+                        "Negative": 29,
+                        "Positive": 14
+                    }
+                },
+                "topic_154": {
+                    "topic_id": 154,
+                    "topic_label": "Topic 154",
+                    "top_words": [
+                        "civil",
+                        "civil service",
+                        "procurement",
+                        "service",
+                        "service jobs",
+                        "jobs",
+                        "north east",
+                        "roles",
+                        "aat",
+                        "qualifications"
+                    ],
+                    "document_count": 92,
+                    "coherence_score": 0.431054099236187,
+                    "sentiment_distribution": {
+                        "Neutral": 68,
+                        "Negative": 13,
+                        "Positive": 11
+                    }
+                },
+                "topic_155": {
+                    "topic_id": 155,
+                    "topic_label": "Topic 155",
+                    "top_words": [
+                        "sleep",
+                        "work",
+                        "stress",
+                        "brain",
+                        "helps",
+                        "switch",
+                        "exercise",
+                        "hobbies",
+                        "time",
+                        "things"
+                    ],
+                    "document_count": 91,
+                    "coherence_score": 0.5342826627115245,
+                    "sentiment_distribution": {
+                        "Neutral": 52,
+                        "Negative": 21,
+                        "Positive": 18
+                    }
+                },
+                "topic_156": {
+                    "topic_id": 156,
+                    "topic_label": "Topic 156",
+                    "top_words": [
+                        "train",
+                        "trains",
+                        "car",
+                        "driving",
+                        "cost",
+                        "cheaper",
+                        "journey",
+                        "journeys",
+                        "parking",
+                        "drive"
+                    ],
+                    "document_count": 91,
+                    "coherence_score": 0.629523771034398,
+                    "sentiment_distribution": {
+                        "Neutral": 68,
+                        "Negative": 16,
+                        "Positive": 7
+                    }
+                },
+                "topic_157": {
+                    "topic_id": 157,
+                    "topic_label": "Topic 157",
+                    "top_words": [
+                        "social media",
+                        "media",
+                        "jealous",
+                        "social",
+                        "jealousy",
+                        "life",
+                        "joy",
+                        "comparison",
+                        "thief",
+                        "friends"
+                    ],
+                    "document_count": 91,
+                    "coherence_score": 0.4259440679828337,
+                    "sentiment_distribution": {
+                        "Negative": 37,
+                        "Neutral": 37,
+                        "Positive": 17
+                    }
+                },
+                "topic_158": {
+                    "topic_id": 158,
+                    "topic_label": "Topic 158",
+                    "top_words": [
+                        "hair",
+                        "shave",
+                        "cut",
+                        "tidy",
+                        "sides",
+                        "head",
+                        "slap",
+                        "guard",
+                        "trim",
+                        "shower"
+                    ],
+                    "document_count": 90,
+                    "coherence_score": 0.2894069535028498,
+                    "sentiment_distribution": {
+                        "Neutral": 66,
+                        "Negative": 18,
+                        "Positive": 6
+                    }
+                },
+                "topic_159": {
+                    "topic_id": 159,
+                    "topic_label": "Topic 159",
+                    "top_words": [
+                        "offer",
+                        "counter",
+                        "current employer",
+                        "current",
+                        "employer",
+                        "accept",
+                        "company",
+                        "offers",
+                        "accept offer",
+                        "new"
+                    ],
+                    "document_count": 90,
+                    "coherence_score": 0.5884405064237099,
+                    "sentiment_distribution": {
+                        "Neutral": 67,
+                        "Negative": 14,
+                        "Positive": 9
+                    }
+                },
+                "topic_160": {
+                    "topic_id": 160,
+                    "topic_label": "Topic 160",
+                    "top_words": [
+                        "peak",
+                        "train",
+                        "trains",
+                        "capacity",
+                        "ticket",
+                        "fans",
+                        "football",
+                        "rail",
+                        "prices",
+                        "tickets"
+                    ],
+                    "document_count": 90,
+                    "coherence_score": 0.3826244033476841,
+                    "sentiment_distribution": {
+                        "Neutral": 66,
+                        "Negative": 17,
+                        "Positive": 7
+                    }
+                },
+                "topic_161": {
+                    "topic_id": 161,
+                    "topic_label": "Topic 161",
+                    "top_words": [
+                        "school",
+                        "summer",
+                        "holidays",
+                        "kids",
+                        "holiday",
+                        "weeks",
+                        "summer holidays",
+                        "children",
+                        "year",
+                        "term"
+                    ],
+                    "document_count": 90,
+                    "coherence_score": 0.5899929377237833,
+                    "sentiment_distribution": {
+                        "Neutral": 46,
+                        "Negative": 32,
+                        "Positive": 12
+                    }
+                },
+                "topic_162": {
+                    "topic_id": 162,
+                    "topic_label": "Topic 162",
+                    "top_words": [
+                        "commute",
+                        "commuting",
+                        "closer",
+                        "days week",
+                        "worth",
+                        "hour",
+                        "hours",
+                        "days",
+                        "week",
+                        "hour commute"
+                    ],
+                    "document_count": 89,
+                    "coherence_score": 0.6468873287051977,
+                    "sentiment_distribution": {
+                        "Neutral": 66,
+                        "Negative": 13,
+                        "Positive": 10
+                    }
+                },
+                "topic_163": {
+                    "topic_id": 163,
+                    "topic_label": "Topic 163",
+                    "top_words": [
+                        "london",
+                        "north",
+                        "live",
+                        "south",
+                        "city",
+                        "lived",
+                        "living",
+                        "places",
+                        "lived london",
+                        "crime"
+                    ],
+                    "document_count": 87,
+                    "coherence_score": 0.5451163188211018,
+                    "sentiment_distribution": {
+                        "Neutral": 34,
+                        "Negative": 31,
+                        "Positive": 22
+                    }
+                },
+                "topic_164": {
+                    "topic_id": 164,
+                    "topic_label": "Topic 164",
+                    "top_words": [
+                        "banter",
+                        "bullying",
+                        "joke",
+                        "funny",
+                        "irritating",
+                        "jokes",
+                        "behaviour",
+                        "guy",
+                        "tell",
+                        "manager"
+                    ],
+                    "document_count": 87,
+                    "coherence_score": 0.3439850869852081,
+                    "sentiment_distribution": {
+                        "Negative": 41,
+                        "Neutral": 37,
+                        "Positive": 9
+                    }
+                },
+                "topic_165": {
+                    "topic_id": 165,
+                    "topic_label": "Topic 165",
+                    "top_words": [
+                        "animal",
+                        "wildlife",
+                        "grass",
+                        "gardening",
+                        "garden",
+                        "countryside",
+                        "environmental",
+                        "nature",
+                        "animals",
+                        "jobs"
+                    ],
+                    "document_count": 85,
+                    "coherence_score": 0.38425028454080573,
+                    "sentiment_distribution": {
+                        "Neutral": 56,
+                        "Negative": 16,
+                        "Positive": 13
+                    }
+                },
+                "topic_166": {
+                    "topic_id": 166,
+                    "topic_label": "Topic 166",
+                    "top_words": [
+                        "parking",
+                        "appeal",
+                        "permit",
+                        "parked",
+                        "ticket",
+                        "event",
+                        "fine",
+                        "appealed",
+                        "park",
+                        "court"
+                    ],
+                    "document_count": 85,
+                    "coherence_score": 0.6368571918129733,
+                    "sentiment_distribution": {
+                        "Neutral": 53,
+                        "Negative": 17,
+                        "Positive": 15
+                    }
+                },
+                "topic_167": {
+                    "topic_id": 167,
+                    "topic_label": "Topic 167",
+                    "top_words": [
+                        "lunch",
+                        "desk",
+                        "eat",
+                        "break",
+                        "watch",
+                        "office",
+                        "home",
+                        "walk",
+                        "lunch break",
+                        "bag"
+                    ],
+                    "document_count": 85,
+                    "coherence_score": 0.5493087166067413,
+                    "sentiment_distribution": {
+                        "Neutral": 67,
+                        "Negative": 11,
+                        "Positive": 7
+                    }
+                },
+                "topic_168": {
+                    "topic_id": 168,
+                    "topic_label": "Topic 168",
+                    "top_words": [
+                        "solo",
+                        "wife",
+                        "adventure",
+                        "restaurant",
+                        "partner",
+                        "weekends",
+                        "eat",
+                        "want want",
+                        "trips",
+                        "travel"
+                    ],
+                    "document_count": 83,
+                    "coherence_score": 0.2896722346259624,
+                    "sentiment_distribution": {
+                        "Neutral": 40,
+                        "Negative": 26,
+                        "Positive": 17
+                    }
+                },
+                "topic_169": {
+                    "topic_id": 169,
+                    "topic_label": "Topic 169",
+                    "top_words": [
+                        "train",
+                        "drivers",
+                        "driver",
+                        "public",
+                        "paid",
+                        "workers",
+                        "nurses",
+                        "underpaid",
+                        "professions",
+                        "public sector"
+                    ],
+                    "document_count": 82,
+                    "coherence_score": 0.3359649060284215,
+                    "sentiment_distribution": {
+                        "Neutral": 49,
+                        "Negative": 20,
+                        "Positive": 13
+                    }
+                },
+                "topic_170": {
+                    "topic_id": 170,
+                    "topic_label": "Topic 170",
+                    "top_words": [
+                        "rid",
+                        "sounds like",
+                        "sounds",
+                        "needed",
+                        "firing",
+                        "culture",
+                        "new job",
+                        "like",
+                        "yeah sounds",
+                        "toxic"
+                    ],
+                    "document_count": 82,
+                    "coherence_score": 0.47241626321585967,
+                    "sentiment_distribution": {
+                        "Neutral": 54,
+                        "Positive": 19,
+                        "Negative": 9
+                    }
+                },
+                "topic_171": {
+                    "topic_id": 171,
+                    "topic_label": "Topic 171",
+                    "top_words": [
+                        "role",
+                        "job",
+                        "job job",
+                        "arsehole",
+                        "new role",
+                        "better job",
+                        "position",
+                        "senior",
+                        "current",
+                        "better"
+                    ],
+                    "document_count": 81,
+                    "coherence_score": 0.42647539403156337,
+                    "sentiment_distribution": {
+                        "Neutral": 57,
+                        "Negative": 14,
+                        "Positive": 10
+                    }
+                },
+                "topic_172": {
+                    "topic_id": 172,
+                    "topic_label": "Topic 172",
+                    "top_words": [
+                        "death",
+                        "funeral",
+                        "certificate",
+                        "died",
+                        "sorry loss",
+                        "estate",
+                        "hospital",
+                        "mom",
+                        "dies",
+                        "loss"
+                    ],
+                    "document_count": 81,
+                    "coherence_score": 0.38195913759823186,
+                    "sentiment_distribution": {
+                        "Neutral": 46,
+                        "Positive": 31,
+                        "Negative": 4
+                    }
+                },
+                "topic_173": {
+                    "topic_id": 173,
+                    "topic_label": "Topic 173",
+                    "top_words": [
+                        "bank",
+                        "number",
+                        "phone",
+                        "card",
+                        "numbers",
+                        "phone number",
+                        "transaction",
+                        "fraud",
+                        "payment",
+                        "scam"
+                    ],
+                    "document_count": 80,
+                    "coherence_score": 0.43579997092391665,
+                    "sentiment_distribution": {
+                        "Neutral": 64,
+                        "Negative": 10,
+                        "Positive": 6
+                    }
+                },
+                "topic_174": {
+                    "topic_id": 174,
+                    "topic_label": "Topic 174",
+                    "top_words": [
+                        "stay",
+                        "leave",
+                        "new",
+                        "current",
+                        "leaving",
+                        "new job",
+                        "stay current",
+                        "lined",
+                        "better",
+                        "job"
+                    ],
+                    "document_count": 80,
+                    "coherence_score": 0.5518729849939765,
+                    "sentiment_distribution": {
+                        "Neutral": 61,
+                        "Negative": 11,
+                        "Positive": 8
+                    }
+                },
+                "topic_175": {
+                    "topic_id": 175,
+                    "topic_label": "Topic 175",
+                    "top_words": [
+                        "card",
+                        "credit",
+                        "credit card",
+                        "expenses",
+                        "cards",
+                        "credit cards",
+                        "pay",
+                        "month",
+                        "claim",
+                        "payment"
+                    ],
+                    "document_count": 80,
+                    "coherence_score": 0.6565999138921421,
+                    "sentiment_distribution": {
+                        "Neutral": 67,
+                        "Positive": 7,
+                        "Negative": 6
+                    }
+                }
+            }
+        }
+    }
+}

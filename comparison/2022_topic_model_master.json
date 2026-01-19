@@ -1,0 +1,2143 @@
+{
+    "2022": {
+        "LDA": {
+            "LDA_Sentiment_Summary": {
+                "Daily Work Life, Pay & Working Hours": {
+                    "Negative": 5157,
+                    "Neutral": 7681,
+                    "Positive": 3281
+                },
+                "Public Frustration, Complaints & Unreasonable Situations": {
+                    "Negative": 5355,
+                    "Neutral": 3830,
+                    "Positive": 2637
+                },
+                "UK Government, Boris Johnson & Political Resignations": {
+                    "Negative": 2085,
+                    "Neutral": 5302,
+                    "Positive": 712
+                }
+            }
+        },
+        "Bertopic": {
+            "Bertopic": {
+                "topic_-1": {
+                    "topic_id": -1,
+                    "topic_label": "General Work & Public Discussion",
+                    "top_words": [
+                        "work",
+                        "people",
+                        "just",
+                        "job",
+                        "time",
+                        "don",
+                        "like",
+                        "gt",
+                        "really",
+                        "pay"
+                    ],
+                    "document_count": 8676,
+                    "coherence_score": 0.37628552109638186,
+                    "sentiment_distribution": {
+                        "Neutral": 4115,
+                        "Negative": 3065,
+                        "Positive": 1496
+                    }
+                },
+                "topic_0": {
+                    "topic_id": 0,
+                    "topic_label": "NHS Staff, Nurses & Doctors Pay Crisis",
+                    "top_words": [
+                        "nhs",
+                        "nurses",
+                        "doctors",
+                        "staff",
+                        "patients",
+                        "pay",
+                        "nurse",
+                        "gp",
+                        "care",
+                        "patient"
+                    ],
+                    "document_count": 1958,
+                    "coherence_score": 0.7133614703884927,
+                    "sentiment_distribution": {
+                        "Neutral": 932,
+                        "Negative": 615,
+                        "Positive": 411
+                    }
+                },
+                "topic_1": {
+                    "topic_id": 1,
+                    "topic_label": "Notice Periods & Resignation Rules at Work",
+                    "top_words": [
+                        "notice",
+                        "resignation",
+                        "notice period",
+                        "period",
+                        "contract",
+                        "resign",
+                        "letter",
+                        "employer",
+                        "resigning",
+                        "company"
+                    ],
+                    "document_count": 886,
+                    "coherence_score": 0.6080215755942795,
+                    "sentiment_distribution": {
+                        "Neutral": 552,
+                        "Negative": 198,
+                        "Positive": 136
+                    }
+                },
+                "topic_2": {
+                    "topic_id": 2,
+                    "topic_label": "Prime Minister, Parliament & Political Resignations",
+                    "top_words": [
+                        "resign",
+                        "pm",
+                        "parliament",
+                        "resigned",
+                        "party",
+                        "leader",
+                        "resigning",
+                        "rules",
+                        "lying",
+                        "prime"
+                    ],
+                    "document_count": 850,
+                    "coherence_score": 0.6448644546856102,
+                    "sentiment_distribution": {
+                        "Neutral": 518,
+                        "Negative": 252,
+                        "Positive": 80
+                    }
+                },
+                "topic_3": {
+                    "topic_id": 3,
+                    "topic_label": "Careers, Degrees & University-to-Job Pathways",
+                    "top_words": [
+                        "job",
+                        "degree",
+                        "career",
+                        "uni",
+                        "work",
+                        "life",
+                        "years",
+                        "jobs",
+                        "year",
+                        "time"
+                    ],
+                    "document_count": 838,
+                    "coherence_score": 0.5703923777810295,
+                    "sentiment_distribution": {
+                        "Positive": 313,
+                        "Negative": 270,
+                        "Neutral": 255
+                    }
+                },
+                "topic_4": {
+                    "topic_id": 4,
+                    "topic_label": "Energy, Gas & Household Utility Cost Crisis",
+                    "top_words": [
+                        "energy",
+                        "water",
+                        "gas",
+                        "really bad",
+                        "bad",
+                        "heat",
+                        "really",
+                        "heating",
+                        "electric",
+                        "air"
+                    ],
+                    "document_count": 792,
+                    "coherence_score": 0.6867503146099903,
+                    "sentiment_distribution": {
+                        "Neutral": 364,
+                        "Negative": 313,
+                        "Positive": 115
+                    }
+                },
+                "topic_5": {
+                    "topic_id": 5,
+                    "topic_label": "Boris Johnson, Party Leadership & Resignations",
+                    "top_words": [
+                        "boris",
+                        "resign",
+                        "party",
+                        "pm",
+                        "resigned",
+                        "resigning",
+                        "leader",
+                        "election",
+                        "tory",
+                        "tories"
+                    ],
+                    "document_count": 722,
+                    "coherence_score": 0.6902337743696227,
+                    "sentiment_distribution": {
+                        "Neutral": 442,
+                        "Negative": 206,
+                        "Positive": 74
+                    }
+                },
+                "topic_6": {
+                    "topic_id": 6,
+                    "topic_label": "Public Calls for Resignation & Political Scandals",
+                    "top_words": [
+                        "resign",
+                        "resigned",
+                        "resigning",
+                        "resignation",
+                        "won",
+                        "won resign",
+                        "fired",
+                        "ll",
+                        "going resign",
+                        "hasn resigned"
+                    ],
+                    "document_count": 694,
+                    "coherence_score": 0.41073868182975365,
+                    "sentiment_distribution": {
+                        "Neutral": 480,
+                        "Negative": 159,
+                        "Positive": 55
+                    }
+                },
+                "topic_7": {
+                    "topic_id": 7,
+                    "topic_label": "Food Prices, Diet & Cost of Living Pressures",
+                    "top_words": [
+                        "food",
+                        "eat",
+                        "meat",
+                        "bad",
+                        "eating",
+                        "really bad",
+                        "really",
+                        "diet",
+                        "weight",
+                        "milk"
+                    ],
+                    "document_count": 660,
+                    "coherence_score": 0.706147129500266,
+                    "sentiment_distribution": {
+                        "Negative": 301,
+                        "Neutral": 291,
+                        "Positive": 68
+                    }
+                },
+                "topic_8": {
+                    "topic_id": 8,
+                    "topic_label": "Teachers, Schools & Education Workforce Crisis",
+                    "top_words": [
+                        "teachers",
+                        "teaching",
+                        "teacher",
+                        "school",
+                        "students",
+                        "schools",
+                        "education",
+                        "teach",
+                        "kids",
+                        "underpaid"
+                    ],
+                    "document_count": 628,
+                    "coherence_score": 0.7962167964132114,
+                    "sentiment_distribution": {
+                        "Negative": 252,
+                        "Neutral": 251,
+                        "Positive": 125
+                    }
+                },
+                "topic_9": {
+                    "topic_id": 9,
+                    "topic_label": "Topic 9",
+                    "top_words": [
+                        "police",
+                        "officers",
+                        "gt",
+                        "officer",
+                        "force",
+                        "crime",
+                        "evidence",
+                        "met",
+                        "court",
+                        "unreasonable"
+                    ],
+                    "document_count": 628,
+                    "coherence_score": 0.5596032639977112,
+                    "sentiment_distribution": {
+                        "Neutral": 343,
+                        "Negative": 206,
+                        "Positive": 79
+                    }
+                },
+                "topic_10": {
+                    "topic_id": 10,
+                    "topic_label": "Topic 10",
+                    "top_words": [
+                        "manager",
+                        "job",
+                        "boss",
+                        "company",
+                        "work",
+                        "team",
+                        "months",
+                        "got",
+                        "told",
+                        "day"
+                    ],
+                    "document_count": 580,
+                    "coherence_score": 0.5560595293036392,
+                    "sentiment_distribution": {
+                        "Negative": 249,
+                        "Neutral": 177,
+                        "Positive": 154
+                    }
+                },
+                "topic_11": {
+                    "topic_id": 11,
+                    "topic_label": "Topic 11",
+                    "top_words": [
+                        "johnson",
+                        "gt",
+                        "minister",
+                        "mr",
+                        "prime",
+                        "prime minister",
+                        "gt gt",
+                        "mr johnson",
+                        "mps",
+                        "party"
+                    ],
+                    "document_count": 567,
+                    "coherence_score": 0.382923283432642,
+                    "sentiment_distribution": {
+                        "Neutral": 395,
+                        "Negative": 118,
+                        "Positive": 54
+                    }
+                },
+                "topic_12": {
+                    "topic_id": 12,
+                    "topic_label": "Topic 12",
+                    "top_words": [
+                        "love job",
+                        "love",
+                        "job",
+                        "hate",
+                        "hate job",
+                        "work",
+                        "enjoy",
+                        "don hate",
+                        "don",
+                        "job love"
+                    ],
+                    "document_count": 541,
+                    "coherence_score": 0.4538271006125001,
+                    "sentiment_distribution": {
+                        "Positive": 355,
+                        "Negative": 151,
+                        "Neutral": 35
+                    }
+                },
+                "topic_13": {
+                    "topic_id": 13,
+                    "topic_label": "Topic 13",
+                    "top_words": [
+                        "unreasonable",
+                        "think",
+                        "like",
+                        "people",
+                        "don",
+                        "think unreasonable",
+                        "just",
+                        "reasonable",
+                        "unreasonable unreasonable",
+                        "comment"
+                    ],
+                    "document_count": 533,
+                    "coherence_score": 0.3847117196568317,
+                    "sentiment_distribution": {
+                        "Negative": 266,
+                        "Neutral": 220,
+                        "Positive": 47
+                    }
+                },
+                "topic_14": {
+                    "topic_id": 14,
+                    "topic_label": "Topic 14",
+                    "top_words": [
+                        "really",
+                        "really bad",
+                        "bad",
+                        "like",
+                        "series",
+                        "tv",
+                        "badly",
+                        "accent",
+                        "funny",
+                        "comedy"
+                    ],
+                    "document_count": 530,
+                    "coherence_score": 0.2858133241176571,
+                    "sentiment_distribution": {
+                        "Negative": 313,
+                        "Neutral": 114,
+                        "Positive": 103
+                    }
+                },
+                "topic_15": {
+                    "topic_id": 15,
+                    "topic_label": "Topic 15",
+                    "top_words": [
+                        "interview",
+                        "rejection",
+                        "cv",
+                        "email",
+                        "job",
+                        "interviews",
+                        "applying",
+                        "experience",
+                        "rejections",
+                        "applied"
+                    ],
+                    "document_count": 512,
+                    "coherence_score": 0.657454188289929,
+                    "sentiment_distribution": {
+                        "Negative": 190,
+                        "Neutral": 183,
+                        "Positive": 139
+                    }
+                },
+                "topic_16": {
+                    "topic_id": 16,
+                    "topic_label": "Topic 16",
+                    "top_words": [
+                        "resign",
+                        "resigned",
+                        "truss",
+                        "resignation",
+                        "party",
+                        "did",
+                        "resigning",
+                        "liz",
+                        "government",
+                        "boris"
+                    ],
+                    "document_count": 483,
+                    "coherence_score": 0.45566268988943176,
+                    "sentiment_distribution": {
+                        "Neutral": 300,
+                        "Negative": 134,
+                        "Positive": 49
+                    }
+                },
+                "topic_17": {
+                    "topic_id": 17,
+                    "topic_label": "Topic 17",
+                    "top_words": [
+                        "eu",
+                        "brexit",
+                        "labour",
+                        "gt",
+                        "tories",
+                        "government",
+                        "party",
+                        "tory",
+                        "uk",
+                        "vote"
+                    ],
+                    "document_count": 477,
+                    "coherence_score": 0.546762198662686,
+                    "sentiment_distribution": {
+                        "Neutral": 248,
+                        "Negative": 177,
+                        "Positive": 52
+                    }
+                },
+                "topic_18": {
+                    "topic_id": 18,
+                    "topic_label": "Topic 18",
+                    "top_words": [
+                        "underpaid",
+                        "salary",
+                        "paid",
+                        "overpaid",
+                        "pay",
+                        "low",
+                        "uk",
+                        "average",
+                        "software",
+                        "engineering"
+                    ],
+                    "document_count": 453,
+                    "coherence_score": 0.5581956984739579,
+                    "sentiment_distribution": {
+                        "Negative": 213,
+                        "Neutral": 193,
+                        "Positive": 47
+                    }
+                },
+                "topic_19": {
+                    "topic_id": 19,
+                    "topic_label": "Topic 19",
+                    "top_words": [
+                        "got",
+                        "really",
+                        "really bad",
+                        "bad",
+                        "went",
+                        "guy",
+                        "car",
+                        "burnt",
+                        "didn",
+                        "came"
+                    ],
+                    "document_count": 431,
+                    "coherence_score": 0.5060255542486471,
+                    "sentiment_distribution": {
+                        "Negative": 181,
+                        "Neutral": 137,
+                        "Positive": 113
+                    }
+                },
+                "topic_20": {
+                    "topic_id": 20,
+                    "topic_label": "Topic 20",
+                    "top_words": [
+                        "zero",
+                        "zero hours",
+                        "hours",
+                        "contract",
+                        "hours contract",
+                        "contracts",
+                        "hours contracts",
+                        "work",
+                        "employer",
+                        "hour"
+                    ],
+                    "document_count": 401,
+                    "coherence_score": 0.7070309535640721,
+                    "sentiment_distribution": {
+                        "Neutral": 268,
+                        "Negative": 85,
+                        "Positive": 48
+                    }
+                },
+                "topic_21": {
+                    "topic_id": 21,
+                    "topic_label": "Topic 21",
+                    "top_words": [
+                        "road",
+                        "driving",
+                        "car",
+                        "lane",
+                        "speed",
+                        "roads",
+                        "drivers",
+                        "traffic",
+                        "cars",
+                        "drive"
+                    ],
+                    "document_count": 385,
+                    "coherence_score": 0.8752747955733697,
+                    "sentiment_distribution": {
+                        "Neutral": 186,
+                        "Negative": 151,
+                        "Positive": 48
+                    }
+                },
+                "topic_22": {
+                    "topic_id": 22,
+                    "topic_label": "Topic 22",
+                    "top_words": [
+                        "rejection",
+                        "women",
+                        "dating",
+                        "friends",
+                        "men",
+                        "woman",
+                        "don",
+                        "just",
+                        "like",
+                        "person"
+                    ],
+                    "document_count": 382,
+                    "coherence_score": 0.4446178641937998,
+                    "sentiment_distribution": {
+                        "Negative": 144,
+                        "Neutral": 127,
+                        "Positive": 111
+                    }
+                },
+                "topic_23": {
+                    "topic_id": 23,
+                    "topic_label": "Topic 23",
+                    "top_words": [
+                        "really bad",
+                        "bad",
+                        "flu",
+                        "really",
+                        "cold",
+                        "covid",
+                        "cough",
+                        "symptoms",
+                        "bad cold",
+                        "throat"
+                    ],
+                    "document_count": 370,
+                    "coherence_score": 0.6933956428395507,
+                    "sentiment_distribution": {
+                        "Positive": 170,
+                        "Negative": 127,
+                        "Neutral": 73
+                    }
+                },
+                "topic_24": {
+                    "topic_id": 24,
+                    "topic_label": "Topic 24",
+                    "top_words": [
+                        "starmer",
+                        "labour",
+                        "corbyn",
+                        "party",
+                        "leader",
+                        "resign",
+                        "keir",
+                        "fined",
+                        "gt",
+                        "johnson"
+                    ],
+                    "document_count": 347,
+                    "coherence_score": 0.4188374009711613,
+                    "sentiment_distribution": {
+                        "Neutral": 208,
+                        "Negative": 108,
+                        "Positive": 31
+                    }
+                },
+                "topic_25": {
+                    "topic_id": 25,
+                    "topic_label": "Topic 25",
+                    "top_words": [
+                        "noise",
+                        "unreasonable",
+                        "neighbours",
+                        "neighbour",
+                        "music",
+                        "loud",
+                        "kids",
+                        "hear",
+                        "house",
+                        "council"
+                    ],
+                    "document_count": 321,
+                    "coherence_score": 0.7059010894361714,
+                    "sentiment_distribution": {
+                        "Negative": 141,
+                        "Neutral": 135,
+                        "Positive": 45
+                    }
+                },
+                "topic_26": {
+                    "topic_id": 26,
+                    "topic_label": "Topic 26",
+                    "top_words": [
+                        "rail",
+                        "train",
+                        "drivers",
+                        "train drivers",
+                        "pay",
+                        "workers",
+                        "trains",
+                        "strike",
+                        "strikes",
+                        "driver"
+                    ],
+                    "document_count": 315,
+                    "coherence_score": 0.7498509369427806,
+                    "sentiment_distribution": {
+                        "Neutral": 175,
+                        "Negative": 112,
+                        "Positive": 28
+                    }
+                },
+                "topic_27": {
+                    "topic_id": 27,
+                    "topic_label": "Topic 27",
+                    "top_words": [
+                        "burnout",
+                        "burnt",
+                        "feel",
+                        "work",
+                        "job",
+                        "time",
+                        "like",
+                        "ve",
+                        "just",
+                        "help"
+                    ],
+                    "document_count": 311,
+                    "coherence_score": 0.3938079402277581,
+                    "sentiment_distribution": {
+                        "Neutral": 124,
+                        "Positive": 102,
+                        "Negative": 85
+                    }
+                },
+                "topic_28": {
+                    "topic_id": 28,
+                    "topic_label": "Topic 28",
+                    "top_words": [
+                        "dog",
+                        "dogs",
+                        "cat",
+                        "cats",
+                        "pet",
+                        "owner",
+                        "pets",
+                        "owners",
+                        "bad",
+                        "really bad"
+                    ],
+                    "document_count": 310,
+                    "coherence_score": 0.8201928617020956,
+                    "sentiment_distribution": {
+                        "Negative": 119,
+                        "Neutral": 116,
+                        "Positive": 75
+                    }
+                },
+                "topic_29": {
+                    "topic_id": 29,
+                    "topic_label": "Topic 29",
+                    "top_words": [
+                        "staff",
+                        "management",
+                        "people",
+                        "toxic",
+                        "jobs",
+                        "poor",
+                        "overworked",
+                        "poor management",
+                        "micromanagement",
+                        "companies"
+                    ],
+                    "document_count": 310,
+                    "coherence_score": 0.44140518245922505,
+                    "sentiment_distribution": {
+                        "Neutral": 144,
+                        "Negative": 122,
+                        "Positive": 44
+                    }
+                },
+                "topic_30": {
+                    "topic_id": 30,
+                    "topic_label": "Topic 30",
+                    "top_words": [
+                        "uk",
+                        "life balance",
+                        "life",
+                        "work life",
+                        "balance",
+                        "work",
+                        "better",
+                        "countries",
+                        "country",
+                        "american"
+                    ],
+                    "document_count": 294,
+                    "coherence_score": 0.459053929815363,
+                    "sentiment_distribution": {
+                        "Neutral": 113,
+                        "Negative": 107,
+                        "Positive": 74
+                    }
+                },
+                "topic_31": {
+                    "topic_id": 31,
+                    "topic_label": "Topic 31",
+                    "top_words": [
+                        "flexible",
+                        "flexible working",
+                        "working",
+                        "request",
+                        "office",
+                        "wfh",
+                        "working request",
+                        "home",
+                        "hybrid",
+                        "work"
+                    ],
+                    "document_count": 277,
+                    "coherence_score": 0.7324579633017996,
+                    "sentiment_distribution": {
+                        "Neutral": 202,
+                        "Negative": 42,
+                        "Positive": 33
+                    }
+                },
+                "topic_32": {
+                    "topic_id": 32,
+                    "topic_label": "Topic 32",
+                    "top_words": [
+                        "election",
+                        "pm",
+                        "party",
+                        "general election",
+                        "mp",
+                        "general",
+                        "mps",
+                        "resign",
+                        "prime",
+                        "minister"
+                    ],
+                    "document_count": 267,
+                    "coherence_score": 0.4833773513798023,
+                    "sentiment_distribution": {
+                        "Neutral": 188,
+                        "Negative": 58,
+                        "Positive": 21
+                    }
+                },
+                "topic_33": {
+                    "topic_id": 33,
+                    "topic_label": "Topic 33",
+                    "top_words": [
+                        "strike",
+                        "union",
+                        "strikes",
+                        "unions",
+                        "striking",
+                        "pay",
+                        "workers",
+                        "fair",
+                        "fair pay",
+                        "support"
+                    ],
+                    "document_count": 265,
+                    "coherence_score": 0.771448012792839,
+                    "sentiment_distribution": {
+                        "Neutral": 154,
+                        "Negative": 78,
+                        "Positive": 33
+                    }
+                },
+                "topic_34": {
+                    "topic_id": 34,
+                    "topic_label": "Topic 34",
+                    "top_words": [
+                        "landlord",
+                        "tenant",
+                        "property",
+                        "unreasonable",
+                        "rent",
+                        "landlords",
+                        "tenants",
+                        "agent",
+                        "agents",
+                        "house"
+                    ],
+                    "document_count": 263,
+                    "coherence_score": 0.7356501530278899,
+                    "sentiment_distribution": {
+                        "Neutral": 132,
+                        "Negative": 98,
+                        "Positive": 33
+                    }
+                },
+                "topic_35": {
+                    "topic_id": 35,
+                    "topic_label": "Topic 35",
+                    "top_words": [
+                        "customer",
+                        "customers",
+                        "service",
+                        "staff",
+                        "customer service",
+                        "shop",
+                        "just",
+                        "store",
+                        "retail",
+                        "don"
+                    ],
+                    "document_count": 263,
+                    "coherence_score": 0.5352930365850086,
+                    "sentiment_distribution": {
+                        "Negative": 135,
+                        "Neutral": 89,
+                        "Positive": 39
+                    }
+                },
+                "topic_36": {
+                    "topic_id": 36,
+                    "topic_label": "Topic 36",
+                    "top_words": [
+                        "housing",
+                        "rent",
+                        "landlords",
+                        "mortgage",
+                        "house",
+                        "property",
+                        "prices",
+                        "london",
+                        "rates",
+                        "live"
+                    ],
+                    "document_count": 257,
+                    "coherence_score": 0.6194775967154562,
+                    "sentiment_distribution": {
+                        "Neutral": 160,
+                        "Negative": 82,
+                        "Positive": 15
+                    }
+                },
+                "topic_37": {
+                    "topic_id": 37,
+                    "topic_label": "Topic 37",
+                    "top_words": [
+                        "house",
+                        "rent",
+                        "mortgage",
+                        "deposit",
+                        "save",
+                        "money",
+                        "living",
+                        "month",
+                        "live",
+                        "buy"
+                    ],
+                    "document_count": 253,
+                    "coherence_score": 0.7079533958001297,
+                    "sentiment_distribution": {
+                        "Neutral": 111,
+                        "Negative": 83,
+                        "Positive": 59
+                    }
+                },
+                "topic_38": {
+                    "topic_id": 38,
+                    "topic_label": "Topic 38",
+                    "top_words": [
+                        "christmas",
+                        "week",
+                        "tomorrow",
+                        "ve",
+                        "burnt",
+                        "really",
+                        "day",
+                        "yesterday",
+                        "today",
+                        "got"
+                    ],
+                    "document_count": 238,
+                    "coherence_score": 0.40873032994242664,
+                    "sentiment_distribution": {
+                        "Negative": 104,
+                        "Positive": 92,
+                        "Neutral": 42
+                    }
+                },
+                "topic_39": {
+                    "topic_id": 39,
+                    "topic_label": "Topic 39",
+                    "top_words": [
+                        "pension",
+                        "people",
+                        "life",
+                        "bad",
+                        "things",
+                        "young",
+                        "boomers",
+                        "money",
+                        "generation",
+                        "years"
+                    ],
+                    "document_count": 231,
+                    "coherence_score": 0.46738836122209715,
+                    "sentiment_distribution": {
+                        "Negative": 97,
+                        "Neutral": 90,
+                        "Positive": 44
+                    }
+                },
+                "topic_40": {
+                    "topic_id": 40,
+                    "topic_label": "Topic 40",
+                    "top_words": [
+                        "benefits",
+                        "poverty",
+                        "people",
+                        "class",
+                        "income",
+                        "benefit",
+                        "universal credit",
+                        "credit",
+                        "universal",
+                        "work"
+                    ],
+                    "document_count": 231,
+                    "coherence_score": 0.4809392712806048,
+                    "sentiment_distribution": {
+                        "Neutral": 130,
+                        "Negative": 73,
+                        "Positive": 28
+                    }
+                },
+                "topic_41": {
+                    "topic_id": 41,
+                    "topic_label": "Topic 41",
+                    "top_words": [
+                        "tax",
+                        "wage",
+                        "taxes",
+                        "wealth",
+                        "pay",
+                        "gt",
+                        "people",
+                        "low",
+                        "workers",
+                        "jobs"
+                    ],
+                    "document_count": 225,
+                    "coherence_score": 0.6003490619076994,
+                    "sentiment_distribution": {
+                        "Neutral": 125,
+                        "Negative": 82,
+                        "Positive": 18
+                    }
+                },
+                "topic_42": {
+                    "topic_id": 42,
+                    "topic_label": "Topic 42",
+                    "top_words": [
+                        "women",
+                        "men",
+                        "trans",
+                        "gender",
+                        "male",
+                        "woman",
+                        "people",
+                        "society",
+                        "female",
+                        "sex"
+                    ],
+                    "document_count": 222,
+                    "coherence_score": 0.7609914937695472,
+                    "sentiment_distribution": {
+                        "Neutral": 118,
+                        "Negative": 80,
+                        "Positive": 24
+                    }
+                },
+                "topic_43": {
+                    "topic_id": 43,
+                    "topic_label": "Topic 43",
+                    "top_words": [
+                        "quit job",
+                        "quit",
+                        "buy",
+                        "job",
+                        "house",
+                        "million",
+                        "family",
+                        "live",
+                        "money",
+                        "mortgage"
+                    ],
+                    "document_count": 220,
+                    "coherence_score": 0.5104652706418437,
+                    "sentiment_distribution": {
+                        "Neutral": 92,
+                        "Negative": 82,
+                        "Positive": 46
+                    }
+                },
+                "topic_44": {
+                    "topic_id": 44,
+                    "topic_label": "Topic 44",
+                    "top_words": [
+                        "pay",
+                        "company",
+                        "rise",
+                        "salary",
+                        "pay rise",
+                        "role",
+                        "offer",
+                        "raise",
+                        "job",
+                        "current"
+                    ],
+                    "document_count": 204,
+                    "coherence_score": 0.6114198501217707,
+                    "sentiment_distribution": {
+                        "Neutral": 107,
+                        "Positive": 50,
+                        "Negative": 47
+                    }
+                },
+                "topic_45": {
+                    "topic_id": 45,
+                    "topic_label": "Topic 45",
+                    "top_words": [
+                        "truss",
+                        "minister",
+                        "liz",
+                        "liz truss",
+                        "party",
+                        "prime",
+                        "election",
+                        "civil",
+                        "secretary",
+                        "ministers"
+                    ],
+                    "document_count": 197,
+                    "coherence_score": 0.43292067353458513,
+                    "sentiment_distribution": {
+                        "Neutral": 127,
+                        "Negative": 45,
+                        "Positive": 25
+                    }
+                },
+                "topic_46": {
+                    "topic_id": 46,
+                    "topic_label": "Topic 46",
+                    "top_words": [
+                        "office",
+                        "home",
+                        "wfh",
+                        "working home",
+                        "working",
+                        "work",
+                        "work home",
+                        "remote",
+                        "flexible",
+                        "flexible working"
+                    ],
+                    "document_count": 194,
+                    "coherence_score": 0.6894299952289581,
+                    "sentiment_distribution": {
+                        "Neutral": 84,
+                        "Negative": 68,
+                        "Positive": 42
+                    }
+                },
+                "topic_47": {
+                    "topic_id": 47,
+                    "topic_label": "Topic 47",
+                    "top_words": [
+                        "mail",
+                        "delivery",
+                        "royal mail",
+                        "royal",
+                        "parcel",
+                        "delivered",
+                        "door",
+                        "refund",
+                        "reviews",
+                        "amazon"
+                    ],
+                    "document_count": 194,
+                    "coherence_score": 0.33881452743908197,
+                    "sentiment_distribution": {
+                        "Neutral": 85,
+                        "Negative": 70,
+                        "Positive": 39
+                    }
+                },
+                "topic_48": {
+                    "topic_id": 48,
+                    "topic_label": "Topic 48",
+                    "top_words": [
+                        "school",
+                        "teacher",
+                        "kids",
+                        "teachers",
+                        "schools",
+                        "class",
+                        "kid",
+                        "children",
+                        "students",
+                        "bullied"
+                    ],
+                    "document_count": 194,
+                    "coherence_score": 0.774612506207738,
+                    "sentiment_distribution": {
+                        "Negative": 93,
+                        "Neutral": 63,
+                        "Positive": 38
+                    }
+                },
+                "topic_49": {
+                    "topic_id": 49,
+                    "topic_label": "Topic 49",
+                    "top_words": [
+                        "resignations",
+                        "resign",
+                        "resigned",
+                        "resigning",
+                        "resignation",
+                        "ah",
+                        "did",
+                        "government",
+                        "just resigned",
+                        "just"
+                    ],
+                    "document_count": 187,
+                    "coherence_score": 0.39198343117048257,
+                    "sentiment_distribution": {
+                        "Neutral": 128,
+                        "Negative": 42,
+                        "Positive": 17
+                    }
+                },
+                "topic_50": {
+                    "topic_id": 50,
+                    "topic_label": "Topic 50",
+                    "top_words": [
+                        "sick",
+                        "days",
+                        "sick days",
+                        "mental",
+                        "health",
+                        "day",
+                        "mental health",
+                        "work",
+                        "ill",
+                        "days year"
+                    ],
+                    "document_count": 186,
+                    "coherence_score": 0.582413972600135,
+                    "sentiment_distribution": {
+                        "Negative": 69,
+                        "Positive": 61,
+                        "Neutral": 56
+                    }
+                },
+                "topic_51": {
+                    "topic_id": 51,
+                    "topic_label": "Topic 51",
+                    "top_words": [
+                        "love job",
+                        "job",
+                        "love",
+                        "work",
+                        "underpaid",
+                        "software",
+                        "earn",
+                        "working",
+                        "pay",
+                        "lot"
+                    ],
+                    "document_count": 185,
+                    "coherence_score": 0.5301504402826885,
+                    "sentiment_distribution": {
+                        "Positive": 62,
+                        "Neutral": 62,
+                        "Negative": 61
+                    }
+                },
+                "topic_52": {
+                    "topic_id": 52,
+                    "topic_label": "Topic 52",
+                    "top_words": [
+                        "commute",
+                        "train",
+                        "bus",
+                        "drive",
+                        "london",
+                        "journey",
+                        "miles",
+                        "travel",
+                        "walk",
+                        "unreasonable"
+                    ],
+                    "document_count": 185,
+                    "coherence_score": 0.5132944123835271,
+                    "sentiment_distribution": {
+                        "Neutral": 93,
+                        "Negative": 58,
+                        "Positive": 34
+                    }
+                },
+                "topic_53": {
+                    "topic_id": 53,
+                    "topic_label": "Topic 53",
+                    "top_words": [
+                        "pay",
+                        "inflation",
+                        "rise",
+                        "ceo",
+                        "fair pay",
+                        "workers",
+                        "paid",
+                        "fair",
+                        "pay rise",
+                        "wage"
+                    ],
+                    "document_count": 180,
+                    "coherence_score": 0.5619616579737526,
+                    "sentiment_distribution": {
+                        "Neutral": 111,
+                        "Negative": 51,
+                        "Positive": 18
+                    }
+                },
+                "topic_54": {
+                    "topic_id": 54,
+                    "topic_label": "Topic 54",
+                    "top_words": [
+                        "really bad",
+                        "bad",
+                        "really",
+                        "sugar",
+                        "chocolate",
+                        "stomach",
+                        "tastes",
+                        "taste",
+                        "smell",
+                        "like"
+                    ],
+                    "document_count": 177,
+                    "coherence_score": 0.4403689480641455,
+                    "sentiment_distribution": {
+                        "Negative": 95,
+                        "Positive": 43,
+                        "Neutral": 39
+                    }
+                },
+                "topic_55": {
+                    "topic_id": 55,
+                    "topic_label": "Topic 55",
+                    "top_words": [
+                        "asylum",
+                        "immigration",
+                        "refugees",
+                        "uk",
+                        "seekers",
+                        "country",
+                        "migration",
+                        "immigrants",
+                        "people",
+                        "gt"
+                    ],
+                    "document_count": 175,
+                    "coherence_score": 0.4837725824329989,
+                    "sentiment_distribution": {
+                        "Neutral": 111,
+                        "Negative": 45,
+                        "Positive": 19
+                    }
+                },
+                "topic_56": {
+                    "topic_id": 56,
+                    "topic_label": "Topic 56",
+                    "top_words": [
+                        "really bad",
+                        "bad",
+                        "really",
+                        "london",
+                        "city",
+                        "place",
+                        "town",
+                        "areas",
+                        "burnt",
+                        "live"
+                    ],
+                    "document_count": 175,
+                    "coherence_score": 0.47348280806079707,
+                    "sentiment_distribution": {
+                        "Negative": 87,
+                        "Neutral": 60,
+                        "Positive": 28
+                    }
+                },
+                "topic_57": {
+                    "topic_id": 57,
+                    "topic_label": "Topic 57",
+                    "top_words": [
+                        "care",
+                        "carers",
+                        "carer",
+                        "staff",
+                        "job",
+                        "underpaid",
+                        "people",
+                        "residents",
+                        "work",
+                        "care home"
+                    ],
+                    "document_count": 174,
+                    "coherence_score": 0.545560369967006,
+                    "sentiment_distribution": {
+                        "Negative": 75,
+                        "Neutral": 51,
+                        "Positive": 48
+                    }
+                },
+                "topic_58": {
+                    "topic_id": 58,
+                    "topic_label": "Topic 58",
+                    "top_words": [
+                        "smoking",
+                        "smoke",
+                        "drugs",
+                        "alcohol",
+                        "smell",
+                        "bad",
+                        "really bad",
+                        "weed",
+                        "really",
+                        "drug"
+                    ],
+                    "document_count": 171,
+                    "coherence_score": 0.6518082479994609,
+                    "sentiment_distribution": {
+                        "Negative": 82,
+                        "Neutral": 70,
+                        "Positive": 19
+                    }
+                },
+                "topic_59": {
+                    "topic_id": 59,
+                    "topic_label": "Topic 59",
+                    "top_words": [
+                        "white",
+                        "people",
+                        "racist",
+                        "racism",
+                        "black",
+                        "unreasonable",
+                        "think",
+                        "english",
+                        "british",
+                        "gt"
+                    ],
+                    "document_count": 170,
+                    "coherence_score": 0.3780773996553626,
+                    "sentiment_distribution": {
+                        "Negative": 92,
+                        "Neutral": 57,
+                        "Positive": 21
+                    }
+                },
+                "topic_60": {
+                    "topic_id": 60,
+                    "topic_label": "Topic 60",
+                    "top_words": [
+                        "wedding",
+                        "unreasonable",
+                        "hair",
+                        "guests",
+                        "ceremony",
+                        "wear",
+                        "op",
+                        "dress",
+                        "friend",
+                        "think"
+                    ],
+                    "document_count": 166,
+                    "coherence_score": 0.5561489610463275,
+                    "sentiment_distribution": {
+                        "Neutral": 78,
+                        "Negative": 65,
+                        "Positive": 23
+                    }
+                },
+                "topic_61": {
+                    "topic_id": 61,
+                    "topic_label": "Topic 61",
+                    "top_words": [
+                        "dentist",
+                        "teeth",
+                        "really bad",
+                        "bad",
+                        "really",
+                        "dentists",
+                        "shower",
+                        "nhs",
+                        "skin",
+                        "dental"
+                    ],
+                    "document_count": 163,
+                    "coherence_score": 0.4253920712873763,
+                    "sentiment_distribution": {
+                        "Negative": 77,
+                        "Neutral": 47,
+                        "Positive": 39
+                    }
+                },
+                "topic_62": {
+                    "topic_id": 62,
+                    "topic_label": "Topic 62",
+                    "top_words": [
+                        "rent",
+                        "parents",
+                        "unreasonable",
+                        "bills",
+                        "mum",
+                        "money",
+                        "paying",
+                        "house",
+                        "food",
+                        "adult"
+                    ],
+                    "document_count": 163,
+                    "coherence_score": 0.5674708179903659,
+                    "sentiment_distribution": {
+                        "Neutral": 92,
+                        "Negative": 42,
+                        "Positive": 29
+                    }
+                },
+                "topic_63": {
+                    "topic_id": 63,
+                    "topic_label": "Topic 63",
+                    "top_words": [
+                        "unreasonable",
+                        "friends",
+                        "airport",
+                        "ask",
+                        "taxi",
+                        "night",
+                        "flight",
+                        "time",
+                        "30am",
+                        "friend"
+                    ],
+                    "document_count": 150,
+                    "coherence_score": 0.45666409513728445,
+                    "sentiment_distribution": {
+                        "Neutral": 70,
+                        "Negative": 63,
+                        "Positive": 17
+                    }
+                },
+                "topic_64": {
+                    "topic_id": 64,
+                    "topic_label": "Topic 64",
+                    "top_words": [
+                        "really bad",
+                        "bad",
+                        "really",
+                        "bad really",
+                        "really really",
+                        "really badly",
+                        "like really",
+                        "badly",
+                        "bad bad",
+                        "yeah really"
+                    ],
+                    "document_count": 143,
+                    "coherence_score": 0.7832763434298128,
+                    "sentiment_distribution": {
+                        "Negative": 110,
+                        "Positive": 22,
+                        "Neutral": 11
+                    }
+                },
+                "topic_65": {
+                    "topic_id": 65,
+                    "topic_label": "Topic 65",
+                    "top_words": [
+                        "mental",
+                        "mental health",
+                        "anxiety",
+                        "health",
+                        "help",
+                        "gp",
+                        "really",
+                        "therapy",
+                        "therapist",
+                        "ve"
+                    ],
+                    "document_count": 142,
+                    "coherence_score": 0.4884330651586927,
+                    "sentiment_distribution": {
+                        "Positive": 66,
+                        "Negative": 49,
+                        "Neutral": 27
+                    }
+                },
+                "topic_66": {
+                    "topic_id": 66,
+                    "topic_label": "Topic 66",
+                    "top_words": [
+                        "lockdown",
+                        "got",
+                        "ve",
+                        "really",
+                        "feel",
+                        "life",
+                        "pandemic",
+                        "time",
+                        "anxiety",
+                        "better"
+                    ],
+                    "document_count": 141,
+                    "coherence_score": 0.4020500426555011,
+                    "sentiment_distribution": {
+                        "Positive": 80,
+                        "Negative": 47,
+                        "Neutral": 14
+                    }
+                },
+                "topic_67": {
+                    "topic_id": 67,
+                    "topic_label": "Topic 67",
+                    "top_words": [
+                        "kids",
+                        "parents",
+                        "mum",
+                        "parent",
+                        "child",
+                        "kid",
+                        "like",
+                        "just",
+                        "really",
+                        "dad"
+                    ],
+                    "document_count": 134,
+                    "coherence_score": 0.5856005466188063,
+                    "sentiment_distribution": {
+                        "Negative": 54,
+                        "Positive": 46,
+                        "Neutral": 34
+                    }
+                },
+                "topic_68": {
+                    "topic_id": 68,
+                    "topic_label": "Topic 68",
+                    "top_words": [
+                        "adhd",
+                        "autistic",
+                        "autism",
+                        "disability",
+                        "disabled",
+                        "diagnosed",
+                        "diagnosis",
+                        "help",
+                        "school",
+                        "assessment"
+                    ],
+                    "document_count": 129,
+                    "coherence_score": 0.437030034698887,
+                    "sentiment_distribution": {
+                        "Neutral": 50,
+                        "Positive": 43,
+                        "Negative": 36
+                    }
+                },
+                "topic_69": {
+                    "topic_id": 69,
+                    "topic_label": "Topic 69",
+                    "top_words": [
+                        "park",
+                        "parking",
+                        "bin",
+                        "bins",
+                        "car",
+                        "plastic",
+                        "driveway",
+                        "unreasonable",
+                        "street",
+                        "parked"
+                    ],
+                    "document_count": 122,
+                    "coherence_score": 0.5227862462095503,
+                    "sentiment_distribution": {
+                        "Neutral": 60,
+                        "Negative": 53,
+                        "Positive": 9
+                    }
+                },
+                "topic_70": {
+                    "topic_id": 70,
+                    "topic_label": "Topic 70",
+                    "top_words": [
+                        "role",
+                        "job",
+                        "current",
+                        "company",
+                        "new",
+                        "offer",
+                        "salary",
+                        "team",
+                        "new job",
+                        "current role"
+                    ],
+                    "document_count": 118,
+                    "coherence_score": 0.6193337418228844,
+                    "sentiment_distribution": {
+                        "Neutral": 44,
+                        "Negative": 37,
+                        "Positive": 37
+                    }
+                },
+                "topic_71": {
+                    "topic_id": 71,
+                    "topic_label": "Topic 71",
+                    "top_words": [
+                        "child",
+                        "kids",
+                        "parents",
+                        "kid",
+                        "children",
+                        "hit",
+                        "dad",
+                        "bad",
+                        "unreasonable",
+                        "parenting"
+                    ],
+                    "document_count": 116,
+                    "coherence_score": 0.5981565232870962,
+                    "sentiment_distribution": {
+                        "Negative": 58,
+                        "Neutral": 36,
+                        "Positive": 22
+                    }
+                },
+                "topic_72": {
+                    "topic_id": 72,
+                    "topic_label": "Topic 72",
+                    "top_words": [
+                        "mp",
+                        "sexual",
+                        "allegations",
+                        "gt",
+                        "whip",
+                        "party",
+                        "mps",
+                        "gt gt",
+                        "tory",
+                        "porn"
+                    ],
+                    "document_count": 112,
+                    "coherence_score": 0.284088430376362,
+                    "sentiment_distribution": {
+                        "Neutral": 76,
+                        "Negative": 26,
+                        "Positive": 10
+                    }
+                },
+                "topic_73": {
+                    "topic_id": 73,
+                    "topic_label": "Topic 73",
+                    "top_words": [
+                        "drinking",
+                        "drink",
+                        "alcohol",
+                        "really bad",
+                        "bad",
+                        "really",
+                        "hangover",
+                        "water",
+                        "drunk",
+                        "anxiety"
+                    ],
+                    "document_count": 105,
+                    "coherence_score": 0.6441560179538572,
+                    "sentiment_distribution": {
+                        "Negative": 44,
+                        "Positive": 31,
+                        "Neutral": 30
+                    }
+                },
+                "topic_74": {
+                    "topic_id": 74,
+                    "topic_label": "Topic 74",
+                    "top_words": [
+                        "russia",
+                        "ukraine",
+                        "nato",
+                        "russian",
+                        "war",
+                        "putin",
+                        "russians",
+                        "gt",
+                        "nuclear",
+                        "conflict"
+                    ],
+                    "document_count": 104,
+                    "coherence_score": 0.13493382102866727,
+                    "sentiment_distribution": {
+                        "Neutral": 67,
+                        "Negative": 25,
+                        "Positive": 12
+                    }
+                },
+                "topic_75": {
+                    "topic_id": 75,
+                    "topic_label": "Topic 75",
+                    "top_words": [
+                        "work",
+                        "hours",
+                        "working",
+                        "time",
+                        "day",
+                        "life balance",
+                        "work life",
+                        "balance",
+                        "finish",
+                        "company"
+                    ],
+                    "document_count": 103,
+                    "coherence_score": 0.581915651108226,
+                    "sentiment_distribution": {
+                        "Neutral": 52,
+                        "Negative": 28,
+                        "Positive": 23
+                    }
+                },
+                "topic_76": {
+                    "topic_id": 76,
+                    "topic_label": "Topic 76",
+                    "top_words": [
+                        "queen",
+                        "monarchy",
+                        "royal",
+                        "monarch",
+                        "king",
+                        "charles",
+                        "andrew",
+                        "ball",
+                        "prince",
+                        "royal family"
+                    ],
+                    "document_count": 101,
+                    "coherence_score": 0.4086405904280154,
+                    "sentiment_distribution": {
+                        "Neutral": 63,
+                        "Negative": 29,
+                        "Positive": 9
+                    }
+                },
+                "topic_77": {
+                    "topic_id": 77,
+                    "topic_label": "Topic 77",
+                    "top_words": [
+                        "www",
+                        "com",
+                        "https www",
+                        "https",
+                        "unitedkingdom comments",
+                        "com unitedkingdom",
+                        "unitedkingdom",
+                        "www reddit",
+                        "searched",
+                        "reddit com"
+                    ],
+                    "document_count": 101,
+                    "coherence_score": 0.29156508865660585,
+                    "sentiment_distribution": {
+                        "Neutral": 89,
+                        "Positive": 7,
+                        "Negative": 5
+                    }
+                },
+                "topic_78": {
+                    "topic_id": 78,
+                    "topic_label": "Topic 78",
+                    "top_words": [
+                        "sick",
+                        "stress",
+                        "work",
+                        "signed",
+                        "mental",
+                        "job",
+                        "notice",
+                        "mental health",
+                        "health",
+                        "time"
+                    ],
+                    "document_count": 101,
+                    "coherence_score": 0.5848511387185396,
+                    "sentiment_distribution": {
+                        "Neutral": 53,
+                        "Positive": 29,
+                        "Negative": 19
+                    }
+                },
+                "topic_79": {
+                    "topic_id": 79,
+                    "topic_label": "Topic 79",
+                    "top_words": [
+                        "anti",
+                        "news",
+                        "labour",
+                        "party",
+                        "tory",
+                        "israel",
+                        "media",
+                        "bbc",
+                        "gt",
+                        "neil"
+                    ],
+                    "document_count": 99,
+                    "coherence_score": 0.44622873930429324,
+                    "sentiment_distribution": {
+                        "Neutral": 46,
+                        "Negative": 44,
+                        "Positive": 9
+                    }
+                },
+                "topic_80": {
+                    "topic_id": 80,
+                    "topic_label": "Topic 80",
+                    "top_words": [
+                        "sunak",
+                        "boris",
+                        "truss",
+                        "resigned",
+                        "tory",
+                        "johnson",
+                        "members",
+                        "party",
+                        "rishi",
+                        "tories"
+                    ],
+                    "document_count": 98,
+                    "coherence_score": 0.3956656076786357,
+                    "sentiment_distribution": {
+                        "Neutral": 63,
+                        "Negative": 22,
+                        "Positive": 13
+                    }
+                },
+                "topic_81": {
+                    "topic_id": 81,
+                    "topic_label": "Topic 81",
+                    "top_words": [
+                        "covid",
+                        "vaccine",
+                        "mask",
+                        "vaccines",
+                        "masks",
+                        "virus",
+                        "risk",
+                        "wear",
+                        "people",
+                        "wear mask"
+                    ],
+                    "document_count": 97,
+                    "coherence_score": 0.5633432624062942,
+                    "sentiment_distribution": {
+                        "Neutral": 50,
+                        "Negative": 37,
+                        "Positive": 10
+                    }
+                },
+                "topic_82": {
+                    "topic_id": 82,
+                    "topic_label": "Topic 82",
+                    "top_words": [
+                        "mps",
+                        "expenses",
+                        "mp",
+                        "salary",
+                        "underpaid",
+                        "pay",
+                        "public",
+                        "london",
+                        "paid",
+                        "80k"
+                    ],
+                    "document_count": 97,
+                    "coherence_score": 0.32456471594839653,
+                    "sentiment_distribution": {
+                        "Neutral": 59,
+                        "Negative": 33,
+                        "Positive": 5
+                    }
+                },
+                "topic_83": {
+                    "topic_id": 83,
+                    "topic_label": "Topic 83",
+                    "top_words": [
+                        "tip",
+                        "tips",
+                        "tipping",
+                        "service",
+                        "wage",
+                        "restaurant",
+                        "underpaid",
+                        "staff",
+                        "server",
+                        "hospitality"
+                    ],
+                    "document_count": 97,
+                    "coherence_score": 0.6444918027904062,
+                    "sentiment_distribution": {
+                        "Negative": 42,
+                        "Neutral": 37,
+                        "Positive": 18
+                    }
+                },
+                "topic_84": {
+                    "topic_id": 84,
+                    "topic_label": "Topic 84",
+                    "top_words": [
+                        "tax",
+                        "hmrc",
+                        "employer",
+                        "pay",
+                        "owe",
+                        "month",
+                        "furlough",
+                        "paid",
+                        "underpaid",
+                        "money"
+                    ],
+                    "document_count": 96,
+                    "coherence_score": 0.40835754756475684,
+                    "sentiment_distribution": {
+                        "Neutral": 48,
+                        "Negative": 29,
+                        "Positive": 19
+                    }
+                },
+                "topic_85": {
+                    "topic_id": 85,
+                    "topic_label": "Topic 85",
+                    "top_words": [
+                        "protest",
+                        "protests",
+                        "protesting",
+                        "oil",
+                        "climate",
+                        "people",
+                        "cause",
+                        "government",
+                        "change",
+                        "stop"
+                    ],
+                    "document_count": 96,
+                    "coherence_score": 0.5597097662593129,
+                    "sentiment_distribution": {
+                        "Neutral": 46,
+                        "Negative": 44,
+                        "Positive": 6
+                    }
+                },
+                "topic_86": {
+                    "topic_id": 86,
+                    "topic_label": "Topic 86",
+                    "top_words": [
+                        "week",
+                        "day week",
+                        "day",
+                        "days",
+                        "work",
+                        "work week",
+                        "productivity",
+                        "employees",
+                        "day work",
+                        "hours"
+                    ],
+                    "document_count": 89,
+                    "coherence_score": 0.6005901222197121,
+                    "sentiment_distribution": {
+                        "Neutral": 53,
+                        "Negative": 20,
+                        "Positive": 16
+                    }
+                },
+                "topic_87": {
+                    "topic_id": 87,
+                    "topic_label": "Topic 87",
+                    "top_words": [
+                        "underpaid",
+                        "carers",
+                        "undervalued",
+                        "care",
+                        "workers",
+                        "pay",
+                        "service",
+                        "paid",
+                        "thank",
+                        "qualified"
+                    ],
+                    "document_count": 85,
+                    "coherence_score": 0.43806174259072267,
+                    "sentiment_distribution": {
+                        "Negative": 35,
+                        "Positive": 26,
+                        "Neutral": 24
+                    }
+                },
+                "topic_88": {
+                    "topic_id": 88,
+                    "topic_label": "Topic 88",
+                    "top_words": [
+                        "holiday",
+                        "leave",
+                        "days",
+                        "annual leave",
+                        "holidays",
+                        "bank holidays",
+                        "annual",
+                        "bank",
+                        "entitlement",
+                        "time"
+                    ],
+                    "document_count": 82,
+                    "coherence_score": 0.6642587625028965,
+                    "sentiment_distribution": {
+                        "Neutral": 48,
+                        "Negative": 24,
+                        "Positive": 10
+                    }
+                },
+                "topic_89": {
+                    "topic_id": 89,
+                    "topic_label": "Topic 89",
+                    "top_words": [
+                        "unreasonable",
+                        "prices",
+                        "costs",
+                        "price",
+                        "cost",
+                        "quid",
+                        "really",
+                        "600",
+                        "000",
+                        "holiday"
+                    ],
+                    "document_count": 82,
+                    "coherence_score": 0.32384486124252243,
+                    "sentiment_distribution": {
+                        "Neutral": 41,
+                        "Negative": 35,
+                        "Positive": 6
+                    }
+                },
+                "topic_90": {
+                    "topic_id": 90,
+                    "topic_label": "Topic 90",
+                    "top_words": [
+                        "flexible working",
+                        "flexible",
+                        "working",
+                        "days",
+                        "leave",
+                        "bonus",
+                        "work",
+                        "holiday",
+                        "christmas",
+                        "paid"
+                    ],
+                    "document_count": 80,
+                    "coherence_score": 0.5050786995384152,
+                    "sentiment_distribution": {
+                        "Neutral": 45,
+                        "Negative": 18,
+                        "Positive": 17
+                    }
+                }
+            }
+        }
+    }
+}

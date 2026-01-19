@@ -1,0 +1,904 @@
+{
+    "2020": [
+        {
+            "Naive Bayes": [
+                {
+                    "accuracy": 0.6849,
+                    "precision": 0.7254,
+                    "f1_score": 0.7022,
+                    "use_class_weight": true,
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "accuracy": 0.609,
+                    "precision": 0.6354,
+                    "f1_score": 0.6131,
+                    "use_class_weight": true,
+                    "labels": "sentiment"
+                },
+                {
+                    "accuracy": 0.7092,
+                    "precision": 0.7184,
+                    "f1_score": 0.7123,
+                    "use_class_weight": true,
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "SVM": [
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8061,
+                        0.8094,
+                        0.8077
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.712,
+                        0.7134,
+                        0.7124
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8294,
+                        0.8303,
+                        0.8297
+                    ],
+                    "labels": "Blob_Sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.7618,
+                        0.7578,
+                        0.7597
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.7418,
+                        0.7339,
+                        0.7361
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8043,
+                        0.8033,
+                        0.8019
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "CNN": [
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8061,
+                        0.8094,
+                        0.8077
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.712,
+                        0.7134,
+                        0.7124
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8294,
+                        0.8303,
+                        0.8297
+                    ],
+                    "labels": "Blob_Sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.7618,
+                        0.7578,
+                        0.7597
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.7418,
+                        0.7339,
+                        0.7361
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8043,
+                        0.8033,
+                        0.8019
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "Transformer": [
+                {
+                    "model_name": "BERT (distilbert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.8617,
+                        0.8664,
+                        0.8618
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.8441,
+                        0.8425,
+                        0.8429
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.8593,
+                        0.8596,
+                        0.8592
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        }
+    ],
+    "2021": [
+        {
+            "Naive Bayes": [
+                {
+                    "accuracy": 0.6937,
+                    "precision": 0.7388,
+                    "f1_score": 0.7123,
+                    "use_class_weight": true,
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "accuracy": 0.622,
+                    "precision": 0.6382,
+                    "f1_score": 0.6243,
+                    "use_class_weight": true,
+                    "labels": "sentiment"
+                },
+                {
+                    "accuracy": 0.7126,
+                    "precision": 0.7287,
+                    "f1_score": 0.718,
+                    "use_class_weight": true,
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "SVM": [
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8388,
+                        0.8344,
+                        0.8365
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.7285,
+                        0.7288,
+                        0.7284
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8623,
+                        0.8613,
+                        0.8617
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "CNN": [
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.7941,
+                        0.7883,
+                        0.7909
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.7564,
+                        0.7568,
+                        0.7552
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8277,
+                        0.8273,
+                        0.8264
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "Transformer": [
+                {
+                    "model_name": "BERT (distilbert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.8635,
+                        0.867,
+                        0.8623
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.8496,
+                        0.8456,
+                        0.8462
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.8846,
+                        0.8848,
+                        0.8844
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        }
+    ],
+    "2022": [
+        {
+            "Naive Bayes": [
+                {
+                    "accuracy": 0.6822,
+                    "precision": 0.7271,
+                    "f1_score": 0.7001,
+                    "use_class_weight": true,
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "accuracy": 0.6099,
+                    "precision": 0.6349,
+                    "f1_score": 0.6146,
+                    "use_class_weight": true,
+                    "labels": "sentiment"
+                },
+                {
+                    "accuracy": 0.7123,
+                    "precision": 0.7294,
+                    "f1_score": 0.7165,
+                    "use_class_weight": true,
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "SVM": [
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8495,
+                        0.8422,
+                        0.8456
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.7431,
+                        0.744,
+                        0.7428
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8849,
+                        0.8832,
+                        0.8836
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "CNN": [
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8042,
+                        0.7928,
+                        0.7977
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.7592,
+                        0.7587,
+                        0.7587
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8634,
+                        0.8636,
+                        0.8634
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "Transformer": [
+                {
+                    "model_name": "BERT (distilbert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.8926,
+                        0.8944,
+                        0.89
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.8623,
+                        0.8596,
+                        0.8602
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.9178,
+                        0.9165,
+                        0.9168
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        }
+    ],
+    "2023": [
+        {
+            "Naive Bayes": [
+                {
+                    "accuracy": 0.6319,
+                    "precision": 0.7048,
+                    "f1_score": 0.6435,
+                    "use_class_weight": true,
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "accuracy": 0.6177,
+                    "precision": 0.7035,
+                    "f1_score": 0.6297,
+                    "use_class_weight": true,
+                    "labels": "sentiment"
+                },
+                {
+                    "accuracy": 0.6583,
+                    "precision": 0.7313,
+                    "f1_score": 0.6663,
+                    "use_class_weight": true,
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "SVM": [
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8345,
+                        0.8278,
+                        0.8299
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.7929,
+                        0.7971,
+                        0.7941
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8853,
+                        0.882,
+                        0.8826
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "CNN": [
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8316,
+                        0.8333,
+                        0.8311
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8204,
+                        0.8104,
+                        0.8138
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8801,
+                        0.88,
+                        0.8798
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "Transformer": [
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.9087,
+                        0.9081,
+                        0.9079
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.8809,
+                        0.8782,
+                        0.8792
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.9185,
+                        0.9186,
+                        0.9185
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        }
+    ],
+    "2024": [
+        {
+            "Naive Bayes": [
+                {
+                    "accuracy": 0.5668,
+                    "precision": 0.7251,
+                    "f1_score": 0.5762,
+                    "use_class_weight": true,
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "accuracy": 0.5562,
+                    "precision": 0.7326,
+                    "f1_score": 0.5716,
+                    "use_class_weight": true,
+                    "labels": "sentiment"
+                },
+                {
+                    "accuracy": 0.5764,
+                    "precision": 0.7335,
+                    "f1_score": 0.5812,
+                    "use_class_weight": true,
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "SVM": [
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8371,
+                        0.8294,
+                        0.8323
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.7991,
+                        0.8018,
+                        0.8001
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8899,
+                        0.8873,
+                        0.8877
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "CNN": [
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.841,
+                        0.8337,
+                        0.8355
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8145,
+                        0.8086,
+                        0.811
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8869,
+                        0.8866,
+                        0.8867
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "Transformer": [
+                {
+                    "model_name": "BERT (distilbert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.9083,
+                        0.9083,
+                        0.9078
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.8889,
+                        0.886,
+                        0.887
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.9318,
+                        0.9322,
+                        0.9319
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "Transformer": [
+                {
+                    "model_name": "BERT (distilbert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.9083,
+                        0.9083,
+                        0.9078
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.8889,
+                        0.886,
+                        0.887
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.9318,
+                        0.9322,
+                        0.9319
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        }
+    ],
+    "2025": [
+        {
+            "Naive Bayes": [
+                {
+                    "accuracy": 0.5637,
+                    "precision": 0.7532,
+                    "f1_score": 0.5711,
+                    "use_class_weight": true,
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "accuracy": 0.5461,
+                    "precision": 0.7541,
+                    "f1_score": 0.5668,
+                    "use_class_weight": true,
+                    "labels": "sentiment"
+                },
+                {
+                    "accuracy": 0.5478,
+                    "precision": 0.7533,
+                    "f1_score": 0.5456,
+                    "use_class_weight": true,
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "SVM": [
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.878,
+                        0.8719,
+                        0.8739
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8268,
+                        0.8291,
+                        0.8274
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "LinearSVC",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.9256,
+                        0.9242,
+                        0.9245
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "CNN": [
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8803,
+                        0.8796,
+                        0.8798
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.8412,
+                        0.8333,
+                        0.836
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "CNN",
+                    "use_class_weight": true,
+                    "scores": [
+                        0.9122,
+                        0.9077,
+                        0.9091
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "Transformer": [
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.944,
+                        0.9441,
+                        0.9435
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.9038,
+                        0.9015,
+                        0.9023
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.9525,
+                        0.9525,
+                        0.9525
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        },
+        {
+            "Transformer": [
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.944,
+                        0.9441,
+                        0.9435
+                    ],
+                    "labels": "vader_sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.9038,
+                        0.9015,
+                        0.9023
+                    ],
+                    "labels": "sentiment"
+                },
+                {
+                    "model_name": "BERT (bert-base-uncased)",
+                    "use_class_weight": false,
+                    "scores": [
+                        0.9525,
+                        0.9525,
+                        0.9525
+                    ],
+                    "labels": "Blob_Sentiment"
+                }
+            ]
+        }
+    ]
+}
